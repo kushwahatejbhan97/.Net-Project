@@ -1,0 +1,13 @@
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\bin\SpaceDesignStudio.dll
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\bin\SpaceDesignStudio.pdb
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.dll
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.pdb
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.csproj.AssemblyReference.cache
+F:\OnGoing\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.csproj.CoreCompileInputs.cache
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\bin\SpaceDesignStudio.dll.config
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\bin\SpaceDesignStudio.dll
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\bin\SpaceDesignStudio.pdb
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.csproj.AssemblyReference.cache
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.csproj.CoreCompileInputs.cache
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.dll
+D:\.NET On Going\SpaceDesignStudio\SpaceDesignStudio\obj\Debug\SpaceDesignStudio.pdb

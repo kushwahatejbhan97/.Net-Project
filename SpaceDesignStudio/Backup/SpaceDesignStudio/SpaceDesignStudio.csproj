@@ -1,0 +1,1533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{789FE842-6166-4CF0-ABE1-3DA6DDD277B3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpaceDesignStudio</RootNamespace>
+    <AssemblyName>SpaceDesignStudio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="11.jpg" />
+    <Content Include="12.jpg" />
+    <Content Include="13.jpg" />
+    <Content Include="14.jpg" />
+    <Content Include="15.jpg" />
+    <Content Include="16.jpg" />
+    <Content Include="3d-design-concept.aspx" />
+    <Content Include="aaboutus\css\bootstrap.css" />
+    <Content Include="about-us.aspx" />
+    <Content Include="about-us.html" />
+    <Content Include="AjaxControlToolkit.dll" />
+    <Content Include="bin\DAL.dll" />
+    <Content Include="bin\DAL.pdb" />
+    <Content Include="bin\SpaceDesignStudio.dll" />
+    <Content Include="bin\SpaceDesignStudio.pdb" />
+    <Content Include="blog.aspx" />
+    <Content Include="contact-us.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="ContactUs.html" />
+    <Content Include="css.css" />
+    <Content Include="css1.css" />
+    <Content Include="css\animate.min.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\bxslider.css" />
+    <Content Include="css\color.css" />
+    <Content Include="css\combined.css" />
+    <Content Include="css\combinedNew.css" />
+    <Content Include="css\combinedpanel.css" />
+    <Content Include="css\googlefontcss.css" />
+    <Content Include="css\jquery.datetimepicker.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\prettyPhoto.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Customer.aspx" />
+    <Content Include="Customer.html" />
+    <Content Include="Default.aspx" />
+    <Content Include="Exteriors.aspx" />
+    <Content Include="Exteriors.html" />
+    <Content Include="Flats.aspx" />
+    <Content Include="Flats.html" />
+    <Content Include="fonts\font-awesome\css\font-awesome.min.css" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfonte0a5.html" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfonte0a5.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.html" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="gallery.aspx" />
+    <Content Include="gallery.html" />
+    <Content Include="Gallery\Ali1\1.jpg" />
+    <Content Include="Gallery\Ali1\2.jpg" />
+    <Content Include="Gallery\Ali1\3.jpg" />
+    <Content Include="Gallery\Ali1\4.jpg" />
+    <Content Include="Gallery\Ali1\5.jpg" />
+    <Content Include="Gallery\Ali1\6.jpg" />
+    <Content Include="Gallery\Ali1\7.jpg" />
+    <Content Include="Gallery\Ali1\8.jpg" />
+    <Content Include="Gallery\Ali\1.jpg" />
+    <Content Include="Gallery\Ali\2.jpg" />
+    <Content Include="Gallery\Ali\3.jpg" />
+    <Content Include="Gallery\Ali\4.jpg" />
+    <Content Include="Gallery\Ali\5.jpg" />
+    <Content Include="Gallery\Ali\6.jpg" />
+    <Content Include="Gallery\Ali\7.jpg" />
+    <Content Include="Gallery\Ali\8.jpg" />
+    <Content Include="Gallery\Armit1\1.jpg" />
+    <Content Include="Gallery\Armit1\2.jpg" />
+    <Content Include="Gallery\Armit1\3.jpg" />
+    <Content Include="Gallery\Armit1\4.jpg" />
+    <Content Include="Gallery\Armit1\5.jpg" />
+    <Content Include="Gallery\Armit1\6.jpg" />
+    <Content Include="Gallery\Armit1\7.jpg" />
+    <Content Include="Gallery\Armit1\8.jpg" />
+    <Content Include="Gallery\Armit\1.jpg" />
+    <Content Include="Gallery\Armit\2.jpg" />
+    <Content Include="Gallery\Armit\3.jpg" />
+    <Content Include="Gallery\Armit\4.jpg" />
+    <Content Include="Gallery\Armit\5.jpg" />
+    <Content Include="Gallery\Armit\6.jpg" />
+    <Content Include="Gallery\Armit\7.jpg" />
+    <Content Include="Gallery\Armit\8.jpg" />
+    <Content Include="Gallery\Kranti1\1.jpg" />
+    <Content Include="Gallery\Kranti1\2.jpg" />
+    <Content Include="Gallery\Kranti1\3.jpg" />
+    <Content Include="Gallery\Kranti1\4.jpg" />
+    <Content Include="Gallery\Kranti1\5.jpg" />
+    <Content Include="Gallery\Kranti1\6.jpg" />
+    <Content Include="Gallery\Kranti1\7.jpg" />
+    <Content Include="Gallery\Kranti1\8.jpg" />
+    <Content Include="Gallery\Kranti\1.jpg" />
+    <Content Include="Gallery\Kranti\2.jpg" />
+    <Content Include="Gallery\Kranti\3.jpg" />
+    <Content Include="Gallery\Kranti\4.jpg" />
+    <Content Include="Gallery\Kranti\5.jpg" />
+    <Content Include="Gallery\Kranti\6.jpg" />
+    <Content Include="Gallery\Kranti\7.jpg" />
+    <Content Include="Gallery\Kranti\8.jpg" />
+    <Content Include="Gallery\office1\1.jpg" />
+    <Content Include="Gallery\office1\10.jpg" />
+    <Content Include="Gallery\office1\11.jpg" />
+    <Content Include="Gallery\office1\12.jpg" />
+    <Content Include="Gallery\office1\2.jpg" />
+    <Content Include="Gallery\office1\3.jpg" />
+    <Content Include="Gallery\office1\4.jpg" />
+    <Content Include="Gallery\office\1.jpg" />
+    <Content Include="Gallery\office\10.jpg" />
+    <Content Include="Gallery\office\11.jpg" />
+    <Content Include="Gallery\office\2.jpg" />
+    <Content Include="Gallery\office\3.jpg" />
+    <Content Include="Gallery\office\4.jpg" />
+    <Content Include="Gallery\office\5.jpg" />
+    <Content Include="Gallery\office\6.jpg" />
+    <Content Include="Gallery\office\7.jpg" />
+    <Content Include="Gallery\office\8.jpg" />
+    <Content Include="Gallery\office\9.jpg" />
+    <Content Include="Global.asax" />
+    <Content Include="Hospital.aspx" />
+    <Content Include="Hospital.html" />
+    <Content Include="HotelResturant.aspx" />
+    <Content Include="HotelResturant.html" />
+    <Content Include="images\360 01_out %281%29.swf" />
+    <Content Include="images\404-bg.png" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\about1.jpg" />
+    <Content Include="images\about2.jpg" />
+    <Content Include="images\about3.jpg" />
+    <Content Include="images\AjaxLoader.gif" />
+    <Content Include="images\approch.jpg" />
+    <Content Include="images\banners\about.jpg" />
+    <Content Include="images\banners\blog.jpg" />
+    <Content Include="images\banners\career.jpg" />
+    <Content Include="images\banners\clients.jpg" />
+    <Content Include="images\banners\contact.jpg" />
+    <Content Include="images\banners\faq.jpg" />
+    <Content Include="images\banners\gallery.jpg" />
+    <Content Include="images\banners\portfolioBG.jpg" />
+    <Content Include="images\banners\press.jpg" />
+    <Content Include="images\banners\servicesBG.jpg" />
+    <Content Include="images\banners\sitemap.jpg" />
+    <Content Include="images\banners\team.jpg" />
+    <Content Include="images\banners\testimonials.jpg" />
+    <Content Include="images\best-interior-designers-in-hyderabad.jpg" />
+    <Content Include="images\bgimages\calltoaction.jpg" />
+    <Content Include="images\bgimages\commercial.jpg" />
+    <Content Include="images\bgimages\featureBox.jpg" />
+    <Content Include="images\bgimages\highlights.jpg" />
+    <Content Include="images\bgimages\residential.jpg" />
+    <Content Include="images\bgimages\stat.jpg" />
+    <Content Include="images\blackBG.png" />
+    <Content Include="images\blog\featured\01.jpg" />
+    <Content Include="images\blog\featured\02.jpg" />
+    <Content Include="images\blog\featured\03.jpg" />
+    <Content Include="images\blog\featured\04.jpg" />
+    <Content Include="images\blog\image.jpg" />
+    <Content Include="images\blog\profileImg.jpg" />
+    <Content Include="images\blog\thumbs\01.jpg" />
+    <Content Include="images\blog\thumbs\02.jpg" />
+    <Content Include="images\blog\thumbs\03.jpg" />
+    <Content Include="images\boxedb.png" />
+    <Content Include="images\boxedeb.png" />
+    <Content Include="images\boxedw.png" />
+    <Content Include="images\bx_loader.gif" />
+    <Content Include="images\clients\01.png" />
+    <Content Include="images\clients\02.png" />
+    <Content Include="images\clients\03.png" />
+    <Content Include="images\clients\04.png" />
+    <Content Include="images\clients\05.png" />
+    <Content Include="images\clients\06.png" />
+    <Content Include="images\clients\07.png" />
+    <Content Include="images\company-grey.png" />
+    <Content Include="images\company-gry.png" />
+    <Content Include="images\company.png" />
+    <Content Include="images\controls.png" />
+    <Content Include="images\cursor.png" />
+    <Content Include="images\dog.png" />
+    <Content Include="images\Exteriors.jpg" />
+    <Content Include="images\flat-interior-designers-in-hyderabad.jpg" />
+    <Content Include="images\flat-interior.jpg" />
+    <Content Include="images\grabbing.png" />
+    <Content Include="images\hospital.jpg" />
+    <Content Include="images\hotel.jpg" />
+    <Content Include="images\hyderabad-interior-designers.jpg" />
+    <Content Include="images\icons\apple-touch-icon-114x114.png" />
+    <Content Include="images\icons\apple-touch-icon-72x72.png" />
+    <Content Include="images\icons\apple-touch-icon.png" />
+    <Content Include="images\icons\favicon.ico" />
+    <Content Include="images\interior-decorators-in-hyderabad.jpg" />
+    <Content Include="images\interior-design-companies-in-hyderabad.jpg" />
+    <Content Include="images\interior-designer-in-hyderabad-for-home.jpg" />
+    <Content Include="images\interior-designers-in-hyderabad.jpg" />
+    <Content Include="images\mission.jpg" />
+    <Content Include="images\office-interior-designers-in-hyderabad.jpg" />
+    <Content Include="images\office.jpg" />
+    <Content Include="images\people\rectangle\01.jpg" />
+    <Content Include="images\people\rectangle\02.jpg" />
+    <Content Include="images\people\rectangle\03.jpg" />
+    <Content Include="images\people\rectangle\04.jpg" />
+    <Content Include="images\people\rectangle\05.jpg" />
+    <Content Include="images\people\rectangle\06.jpg" />
+    <Content Include="images\people\rectangle\07.jpg" />
+    <Content Include="images\people\square\01.jpg" />
+    <Content Include="images\people\square\02.jpg" />
+    <Content Include="images\people\square\03.jpg" />
+    <Content Include="images\people\square\04.jpg" />
+    <Content Include="images\people\square\05.jpg" />
+    <Content Include="images\people\square\06.jpg" />
+    <Content Include="images\people\square\07.jpg" />
+    <Content Include="images\person.png" />
+    <Content Include="images\Preloader.gif" />
+    <Content Include="images\press\large\01.jpg" />
+    <Content Include="images\press\large\02.jpg" />
+    <Content Include="images\press\large\03.jpg" />
+    <Content Include="images\press\large\04.jpg" />
+    <Content Include="images\press\large\05.jpg" />
+    <Content Include="images\press\large\06.jpg" />
+    <Content Include="images\press\large\07.jpg" />
+    <Content Include="images\press\large\08.jpg" />
+    <Content Include="images\press\large\09.jpg" />
+    <Content Include="images\press\large\10.jpg" />
+    <Content Include="images\press\thumb\01.jpg" />
+    <Content Include="images\press\thumb\02.jpg" />
+    <Content Include="images\press\thumb\03.jpg" />
+    <Content Include="images\press\thumb\04.jpg" />
+    <Content Include="images\press\thumb\05.jpg" />
+    <Content Include="images\press\thumb\06.jpg" />
+    <Content Include="images\press\thumb\07.jpg" />
+    <Content Include="images\press\thumb\08.jpg" />
+    <Content Include="images\press\thumb\09.jpg" />
+    <Content Include="images\press\thumb\10.jpg" />
+    <Content Include="images\prettyPhoto\dark_rounded\btnNext.png" />
+    <Content Include="images\prettyPhoto\dark_rounded\btnPrevious.png" />
+    <Content Include="images\prettyPhoto\dark_rounded\contentPattern.png" />
+    <Content Include="images\prettyPhoto\dark_rounded\loader.gif" />
+    <Content Include="images\prettyPhoto\dark_rounded\sprite.png" />
+    <Content Include="images\prettyPhoto\dark_square\btnNext.png" />
+    <Content Include="images\prettyPhoto\dark_square\btnPrevious.png" />
+    <Content Include="images\prettyPhoto\dark_square\loader.gif" />
+    <Content Include="images\prettyPhoto\dark_square\sprite.png" />
+    <Content Include="images\prettyPhoto\default\default_thumb.png" />
+    <Content Include="images\prettyPhoto\default\loader.gif" />
+    <Content Include="images\prettyPhoto\default\sprite.png" />
+    <Content Include="images\prettyPhoto\default\sprite_next.png" />
+    <Content Include="images\prettyPhoto\default\sprite_prev.png" />
+    <Content Include="images\prettyPhoto\default\sprite_x.png" />
+    <Content Include="images\prettyPhoto\default\sprite_y.png" />
+    <Content Include="images\prettyPhoto\facebook\btnNext.png" />
+    <Content Include="images\prettyPhoto\facebook\btnPrevious.png" />
+    <Content Include="images\prettyPhoto\facebook\contentPatternBottom.png" />
+    <Content Include="images\prettyPhoto\facebook\contentPatternLeft.png" />
+    <Content Include="images\prettyPhoto\facebook\contentPatternRight.png" />
+    <Content Include="images\prettyPhoto\facebook\contentPatternTop.png" />
+    <Content Include="images\prettyPhoto\facebook\default_thumbnail.gif" />
+    <Content Include="images\prettyPhoto\facebook\loader.gif" />
+    <Content Include="images\prettyPhoto\facebook\sprite.png" />
+    <Content Include="images\prettyPhoto\light_rounded\btnNext.png" />
+    <Content Include="images\prettyPhoto\light_rounded\btnPrevious.png" />
+    <Content Include="images\prettyPhoto\light_rounded\loader.gif" />
+    <Content Include="images\prettyPhoto\light_rounded\sprite.png" />
+    <Content Include="images\prettyPhoto\light_square\btnNext.png" />
+    <Content Include="images\prettyPhoto\light_square\btnPrevious.png" />
+    <Content Include="images\prettyPhoto\light_square\sprite.png" />
+    <Content Include="images\project\01\large\01.jpg" />
+    <Content Include="images\project\01\large\02.jpg" />
+    <Content Include="images\project\01\large\03.jpg" />
+    <Content Include="images\project\01\large\04.jpg" />
+    <Content Include="images\project\01\large\05.jpg" />
+    <Content Include="images\project\01\large\06.jpg" />
+    <Content Include="images\project\01\large\07.jpg" />
+    <Content Include="images\project\01\large\08.jpg" />
+    <Content Include="images\project\01\large\09.jpg" />
+    <Content Include="images\project\01\large\10.jpg" />
+    <Content Include="images\project\01\large\17.jpg" />
+    <Content Include="images\project\01\large\18.jpg" />
+    <Content Include="images\project\01\large\19.jpg" />
+    <Content Include="images\project\01\large\20.jpg" />
+    <Content Include="images\project\01\slider\01.jpg" />
+    <Content Include="images\project\01\slider\02.jpg" />
+    <Content Include="images\project\01\slider\03.jpg" />
+    <Content Include="images\project\01\slider\04.jpg" />
+    <Content Include="images\project\01\slider\05.jpg" />
+    <Content Include="images\project\01\slider\06.jpg" />
+    <Content Include="images\project\01\slider\07.jpg" />
+    <Content Include="images\project\01\slider\08.jpg" />
+    <Content Include="images\project\01\slider\09.jpg" />
+    <Content Include="images\project\01\slider\10.jpg" />
+    <Content Include="images\project\01\slider\17.jpg" />
+    <Content Include="images\project\01\slider\18.jpg" />
+    <Content Include="images\project\01\slider\19.jpg" />
+    <Content Include="images\project\01\slider\20.jpg" />
+    <Content Include="images\project\01\small\01.jpg" />
+    <Content Include="images\project\01\small\02.jpg" />
+    <Content Include="images\project\01\small\03.jpg" />
+    <Content Include="images\project\01\small\04.jpg" />
+    <Content Include="images\project\01\small\05.jpg" />
+    <Content Include="images\project\01\small\06.jpg" />
+    <Content Include="images\project\01\small\07.jpg" />
+    <Content Include="images\project\01\small\08.jpg" />
+    <Content Include="images\project\01\small\09.jpg" />
+    <Content Include="images\project\01\small\10.jpg" />
+    <Content Include="images\project\01\small\17.jpg" />
+    <Content Include="images\project\01\small\18.jpg" />
+    <Content Include="images\project\01\small\19.jpg" />
+    <Content Include="images\project\01\small\20.jpg" />
+    <Content Include="images\project\01\small\21.jpg" />
+    <Content Include="images\project\01\small\22.jpg" />
+    <Content Include="images\project\01\small\23.jpg" />
+    <Content Include="images\project\01\small\24.jpg" />
+    <Content Include="images\project\01\small\25.jpg" />
+    <Content Include="images\project\01\small\26.jpg" />
+    <Content Include="images\project\01\small\27.jpg" />
+    <Content Include="images\project\01\small\28.jpg" />
+    <Content Include="images\project\01\small\29.jpg" />
+    <Content Include="images\project\01\small\30.jpg" />
+    <Content Include="images\project\01\small\31.jpg" />
+    <Content Include="images\project\01\small\32.jpg" />
+    <Content Include="images\project\02\large\01.jpg" />
+    <Content Include="images\project\02\large\02.jpg" />
+    <Content Include="images\project\02\large\03.jpg" />
+    <Content Include="images\project\02\large\04.jpg" />
+    <Content Include="images\project\02\large\05.jpg" />
+    <Content Include="images\project\02\large\06.jpg" />
+    <Content Include="images\project\02\large\07.jpg" />
+    <Content Include="images\project\02\large\08.jpg" />
+    <Content Include="images\project\02\large\09.jpg" />
+    <Content Include="images\project\02\large\10.jpg" />
+    <Content Include="images\project\02\large\18.jpg" />
+    <Content Include="images\project\02\large\21.jpg" />
+    <Content Include="images\project\02\large\22.jpg" />
+    <Content Include="images\project\02\large\23.jpg" />
+    <Content Include="images\project\02\large\24.jpg" />
+    <Content Include="images\project\02\large\25.jpg" />
+    <Content Include="images\project\02\slider\01.jpg" />
+    <Content Include="images\project\02\slider\02.jpg" />
+    <Content Include="images\project\02\slider\03.jpg" />
+    <Content Include="images\project\02\slider\04.jpg" />
+    <Content Include="images\project\02\small\01.jpg" />
+    <Content Include="images\project\02\small\02.jpg" />
+    <Content Include="images\project\02\small\03.jpg" />
+    <Content Include="images\project\02\small\04.jpg" />
+    <Content Include="images\project\02\small\05.jpg" />
+    <Content Include="images\project\02\small\06.jpg" />
+    <Content Include="images\project\02\small\07.jpg" />
+    <Content Include="images\project\02\small\08.jpg" />
+    <Content Include="images\project\02\small\09.jpg" />
+    <Content Include="images\project\02\small\10.jpg" />
+    <Content Include="images\project\02\small\17.jpg" />
+    <Content Include="images\project\02\small\18.jpg" />
+    <Content Include="images\project\02\small\18_2.jpg" />
+    <Content Include="images\project\02\small\19.jpg" />
+    <Content Include="images\project\02\small\20.jpg" />
+    <Content Include="images\project\02\small\21.jpg" />
+    <Content Include="images\project\02\small\21_2.jpg" />
+    <Content Include="images\project\02\small\22.jpg" />
+    <Content Include="images\project\02\small\22_2.jpg" />
+    <Content Include="images\project\02\small\23.jpg" />
+    <Content Include="images\project\02\small\23_2.jpg" />
+    <Content Include="images\project\02\small\24.jpg" />
+    <Content Include="images\project\02\small\24_2.jpg" />
+    <Content Include="images\project\02\small\25.jpg" />
+    <Content Include="images\project\02\small\26.jpg" />
+    <Content Include="images\project\02\small\27.jpg" />
+    <Content Include="images\project\02\small\28.jpg" />
+    <Content Include="images\project\02\small\29.jpg" />
+    <Content Include="images\project\02\small\30.jpg" />
+    <Content Include="images\project\02\small\31.jpg" />
+    <Content Include="images\project\02\small\32.jpg" />
+    <Content Include="images\project\03\large\01.jpg" />
+    <Content Include="images\project\03\large\02.jpg" />
+    <Content Include="images\project\03\large\03.jpg" />
+    <Content Include="images\project\03\large\04.jpg" />
+    <Content Include="images\project\03\large\05.jpg" />
+    <Content Include="images\project\03\large\06.jpg" />
+    <Content Include="images\project\03\large\07.jpg" />
+    <Content Include="images\project\03\large\08.jpg" />
+    <Content Include="images\project\03\large\25.jpg" />
+    <Content Include="images\project\03\large\26.jpg" />
+    <Content Include="images\project\03\large\27.jpg" />
+    <Content Include="images\project\03\large\28.jpg" />
+    <Content Include="images\project\03\slider\01.jpg" />
+    <Content Include="images\project\03\slider\02.jpg" />
+    <Content Include="images\project\03\slider\03.jpg" />
+    <Content Include="images\project\03\slider\04.jpg" />
+    <Content Include="images\project\03\small\01.jpg" />
+    <Content Include="images\project\03\small\02.jpg" />
+    <Content Include="images\project\03\small\03.jpg" />
+    <Content Include="images\project\03\small\04.jpg" />
+    <Content Include="images\project\03\small\05.jpg" />
+    <Content Include="images\project\03\small\06.jpg" />
+    <Content Include="images\project\03\small\07.jpg" />
+    <Content Include="images\project\03\small\08.jpg" />
+    <Content Include="images\project\03\small\17.jpg" />
+    <Content Include="images\project\03\small\18.jpg" />
+    <Content Include="images\project\03\small\19.jpg" />
+    <Content Include="images\project\03\small\20.jpg" />
+    <Content Include="images\project\03\small\21.jpg" />
+    <Content Include="images\project\03\small\22.jpg" />
+    <Content Include="images\project\03\small\23.jpg" />
+    <Content Include="images\project\03\small\24.jpg" />
+    <Content Include="images\project\03\small\25.jpg" />
+    <Content Include="images\project\03\small\26.jpg" />
+    <Content Include="images\project\03\small\27.jpg" />
+    <Content Include="images\project\03\small\28.jpg" />
+    <Content Include="images\project\03\small\29.jpg" />
+    <Content Include="images\project\03\small\30.jpg" />
+    <Content Include="images\project\03\small\31.jpg" />
+    <Content Include="images\project\03\small\32.jpg" />
+    <Content Include="images\project\04\large\01.jpg" />
+    <Content Include="images\project\04\large\02.jpg" />
+    <Content Include="images\project\04\large\03.jpg" />
+    <Content Include="images\project\04\large\04.jpg" />
+    <Content Include="images\project\04\large\05.jpg" />
+    <Content Include="images\project\04\large\06.jpg" />
+    <Content Include="images\project\04\large\07.jpg" />
+    <Content Include="images\project\04\large\08.jpg" />
+    <Content Include="images\project\04\large\09.jpg" />
+    <Content Include="images\project\04\large\10.jpg" />
+    <Content Include="images\project\04\large\29.jpg" />
+    <Content Include="images\project\04\large\30.jpg" />
+    <Content Include="images\project\04\large\31.jpg" />
+    <Content Include="images\project\04\large\32.jpg" />
+    <Content Include="images\project\04\small\01.jpg" />
+    <Content Include="images\project\04\small\02.jpg" />
+    <Content Include="images\project\04\small\03.jpg" />
+    <Content Include="images\project\04\small\04.jpg" />
+    <Content Include="images\project\04\small\05.jpg" />
+    <Content Include="images\project\04\small\06.jpg" />
+    <Content Include="images\project\04\small\07.jpg" />
+    <Content Include="images\project\04\small\08.jpg" />
+    <Content Include="images\project\04\small\09.jpg" />
+    <Content Include="images\project\04\small\10.jpg" />
+    <Content Include="images\project\04\small\17.jpg" />
+    <Content Include="images\project\04\small\18.jpg" />
+    <Content Include="images\project\04\small\19.jpg" />
+    <Content Include="images\project\04\small\20.jpg" />
+    <Content Include="images\project\04\small\21.jpg" />
+    <Content Include="images\project\04\small\22.jpg" />
+    <Content Include="images\project\04\small\23.jpg" />
+    <Content Include="images\project\04\small\24.jpg" />
+    <Content Include="images\project\04\small\25.jpg" />
+    <Content Include="images\project\04\small\26.jpg" />
+    <Content Include="images\project\04\small\27.jpg" />
+    <Content Include="images\project\04\small\28.jpg" />
+    <Content Include="images\project\04\small\29.jpg" />
+    <Content Include="images\project\04\small\30.jpg" />
+    <Content Include="images\project\04\small\31.jpg" />
+    <Content Include="images\project\04\small\32.jpg" />
+    <Content Include="images\project\recent-home\01.jpg" />
+    <Content Include="images\project\recent-home\02.jpg" />
+    <Content Include="images\project\recent-home\03.jpg" />
+    <Content Include="images\project\recent-home\04.jpg" />
+    <Content Include="images\project\recent-home\owl\01.jpg" />
+    <Content Include="images\project\recent-home\owl\02.jpg" />
+    <Content Include="images\project\recent-home\owl\03.jpg" />
+    <Content Include="images\project\recent-home\owl\04.jpg" />
+    <Content Include="images\project\recent-home\owl\05.jpg" />
+    <Content Include="images\project\recent-home\owl\06.jpg" />
+    <Content Include="images\project\recent-home\owl\07.jpg" />
+    <Content Include="images\project\recent-home\owl\08.jpg" />
+    <Content Include="images\project\recent-home\owl\09.jpg" />
+    <Content Include="images\project\recent-home\owl\10.jpg" />
+    <Content Include="images\project\recent-home\owl\11.jpg" />
+    <Content Include="images\project\recent-home\owl\12.jpg" />
+    <Content Include="images\project\recent-home\owl\13.jpg" />
+    <Content Include="images\project\recent-home\owl\14.jpg" />
+    <Content Include="images\project\recent-home\owl\15.jpg" />
+    <Content Include="images\project\recent-home\owl\16.jpg" />
+    <Content Include="images\project\recent\01.jpg" />
+    <Content Include="images\project\recent\02.jpg" />
+    <Content Include="images\project\recent\03.jpg" />
+    <Content Include="images\quote\01.jpg" />
+    <Content Include="images\quote\02.jpg" />
+    <Content Include="images\quote\03.jpg" />
+    <Content Include="images\quote\04.jpg" />
+    <Content Include="images\quote\05.jpg" />
+    <Content Include="images\quote\06.jpg" />
+    <Content Include="images\residential.jpg" />
+    <Content Include="images\services\thumb\01.jpg" />
+    <Content Include="images\services\thumb\02.jpg" />
+    <Content Include="images\services\thumb\03.jpg" />
+    <Content Include="images\services\thumb\04.jpg" />
+    <Content Include="images\services\thumb\05.jpg" />
+    <Content Include="images\services\thumb\06.jpg" />
+    <Content Include="images\services\thumb\07.jpg" />
+    <Content Include="images\services\thumb\08.jpg" />
+    <Content Include="images\shop.jpg" />
+    <Content Include="images\slider\slide1.jpg" />
+    <Content Include="images\slider\slide2.jpg" />
+    <Content Include="images\slider\slide3.jpg" />
+    <Content Include="images\slider\slide4.jpg" />
+    <Content Include="images\slider\slider1.jpg" />
+    <Content Include="images\slider\slider2.jpg" />
+    <Content Include="images\slider\slider3.jpg" />
+    <Content Include="images\slider\slider4.jpg" />
+    <Content Include="images\slider\slider5.jpg" />
+    <Content Include="images\slider\slider6.jpg" />
+    <Content Include="images\slider\slider7.jpg" />
+    <Content Include="images\villa.jpg" />
+    <Content Include="images\visson.jpg" />
+    <Content Include="images\whiteBG.png" />
+    <Content Include="images\why.jpg" />
+    <Content Include="images\why1.jpg" />
+    <Content Include="images\why2.jpg" />
+    <Content Include="img\download.png" />
+    <Content Include="img\download1.png" />
+    <Content Include="img\Exteriors1\001 %2814%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2815%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2816%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2817%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2818%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2819%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2820%29.jpg" />
+    <Content Include="img\Exteriors1\001 %2821%29.jpg" />
+    <Content Include="img\Exteriors1\1.jpg" />
+    <Content Include="img\Exteriors1\10.jpg" />
+    <Content Include="img\Exteriors1\11.jpg" />
+    <Content Include="img\Exteriors1\12.jpg" />
+    <Content Include="img\Exteriors1\13.jpg" />
+    <Content Include="img\Exteriors1\14.jpg" />
+    <Content Include="img\Exteriors1\15.jpg" />
+    <Content Include="img\Exteriors1\16.jpg" />
+    <Content Include="img\Exteriors1\17.jpg" />
+    <Content Include="img\Exteriors1\18.jpg" />
+    <Content Include="img\Exteriors1\19.jpg" />
+    <Content Include="img\Exteriors1\2.jpg" />
+    <Content Include="img\Exteriors1\20.jpg" />
+    <Content Include="img\Exteriors1\21.jpg" />
+    <Content Include="img\Exteriors1\22.jpg" />
+    <Content Include="img\Exteriors1\23.jpg" />
+    <Content Include="img\Exteriors1\24.jpg" />
+    <Content Include="img\Exteriors1\25.jpg" />
+    <Content Include="img\Exteriors1\26.jpg" />
+    <Content Include="img\Exteriors1\27.jpg" />
+    <Content Include="img\Exteriors1\28.jpg" />
+    <Content Include="img\Exteriors1\29.jpg" />
+    <Content Include="img\Exteriors1\3.jpg" />
+    <Content Include="img\Exteriors1\30.jpg" />
+    <Content Include="img\Exteriors1\4.jpg" />
+    <Content Include="img\Exteriors1\5.jpg" />
+    <Content Include="img\Exteriors1\6.jpg" />
+    <Content Include="img\Exteriors1\7.jpg" />
+    <Content Include="img\Exteriors1\8.jpg" />
+    <Content Include="img\Exteriors1\9.jpg" />
+    <Content Include="img\Exteriors\001 %2814%29.jpg" />
+    <Content Include="img\Exteriors\001 %2815%29.jpg" />
+    <Content Include="img\Exteriors\001 %2816%29.jpg" />
+    <Content Include="img\Exteriors\001 %2817%29.jpg" />
+    <Content Include="img\Exteriors\001 %2818%29.jpg" />
+    <Content Include="img\Exteriors\001 %2819%29.jpg" />
+    <Content Include="img\Exteriors\001 %2820%29.jpg" />
+    <Content Include="img\Exteriors\001 %2821%29.jpg" />
+    <Content Include="img\Exteriors\1.jpg" />
+    <Content Include="img\Exteriors\10.jpg" />
+    <Content Include="img\Exteriors\11.jpg" />
+    <Content Include="img\Exteriors\12.jpg" />
+    <Content Include="img\Exteriors\13.jpg" />
+    <Content Include="img\Exteriors\14.jpg" />
+    <Content Include="img\Exteriors\15.jpg" />
+    <Content Include="img\Exteriors\16.jpg" />
+    <Content Include="img\Exteriors\17.jpg" />
+    <Content Include="img\Exteriors\18.jpg" />
+    <Content Include="img\Exteriors\19.jpg" />
+    <Content Include="img\Exteriors\2.jpg" />
+    <Content Include="img\Exteriors\20.jpg" />
+    <Content Include="img\Exteriors\21.jpg" />
+    <Content Include="img\Exteriors\22.jpg" />
+    <Content Include="img\Exteriors\23.jpg" />
+    <Content Include="img\Exteriors\24.jpg" />
+    <Content Include="img\Exteriors\25.jpg" />
+    <Content Include="img\Exteriors\26.jpg" />
+    <Content Include="img\Exteriors\27.jpg" />
+    <Content Include="img\Exteriors\28.jpg" />
+    <Content Include="img\Exteriors\29.jpg" />
+    <Content Include="img\Exteriors\3.jpg" />
+    <Content Include="img\Exteriors\30.jpg" />
+    <Content Include="img\Exteriors\4.jpg" />
+    <Content Include="img\Exteriors\5.jpg" />
+    <Content Include="img\Exteriors\6.jpg" />
+    <Content Include="img\Exteriors\7.jpg" />
+    <Content Include="img\Exteriors\8.jpg" />
+    <Content Include="img\Exteriors\9.jpg" />
+    <Content Include="img\Flats1\001 %281%29.jpg" />
+    <Content Include="img\Flats1\001 %282%29.jpg" />
+    <Content Include="img\Flats1\001 %283%29.jpg" />
+    <Content Include="img\Flats1\001 %284%29.jpg" />
+    <Content Include="img\Flats1\001 %285%29.jpg" />
+    <Content Include="img\Flats1\001 %286%29.jpg" />
+    <Content Include="img\Flats1\001 %287%29.jpg" />
+    <Content Include="img\Flats1\001 %288%29.jpg" />
+    <Content Include="img\Flats1\1.jpg" />
+    <Content Include="img\Flats1\10.jpg" />
+    <Content Include="img\Flats1\11.jpg" />
+    <Content Include="img\Flats1\12.jpg" />
+    <Content Include="img\Flats1\13.jpg" />
+    <Content Include="img\Flats1\14.jpg" />
+    <Content Include="img\Flats1\15.jpg" />
+    <Content Include="img\Flats1\16.jpg" />
+    <Content Include="img\Flats1\17.jpg" />
+    <Content Include="img\Flats1\18.jpg" />
+    <Content Include="img\Flats1\19.jpg" />
+    <Content Include="img\Flats1\2.jpg" />
+    <Content Include="img\Flats1\20.jpg" />
+    <Content Include="img\Flats1\21.jpg" />
+    <Content Include="img\Flats1\22.jpg" />
+    <Content Include="img\Flats1\23.jpg" />
+    <Content Include="img\Flats1\24.jpg" />
+    <Content Include="img\Flats1\25.jpg" />
+    <Content Include="img\Flats1\26.jpg" />
+    <Content Include="img\Flats1\27.jpg" />
+    <Content Include="img\Flats1\28.jpg" />
+    <Content Include="img\Flats1\29.jpg" />
+    <Content Include="img\Flats1\3.jpg" />
+    <Content Include="img\Flats1\30.jpg" />
+    <Content Include="img\Flats1\31.jpg" />
+    <Content Include="img\Flats1\32.jpg" />
+    <Content Include="img\Flats1\33.jpg" />
+    <Content Include="img\Flats1\34.jpg" />
+    <Content Include="img\Flats1\35.jpg" />
+    <Content Include="img\Flats1\36.jpg" />
+    <Content Include="img\Flats1\37.jpg" />
+    <Content Include="img\Flats1\38.jpg" />
+    <Content Include="img\Flats1\39.jpg" />
+    <Content Include="img\Flats1\4.jpg" />
+    <Content Include="img\Flats1\40.jpg" />
+    <Content Include="img\Flats1\41.jpg" />
+    <Content Include="img\Flats1\42.jpg" />
+    <Content Include="img\Flats1\43.jpg" />
+    <Content Include="img\Flats1\44.jpg" />
+    <Content Include="img\Flats1\45.jpg" />
+    <Content Include="img\Flats1\46.jpg" />
+    <Content Include="img\Flats1\47.jpg" />
+    <Content Include="img\Flats1\48.jpg" />
+    <Content Include="img\Flats1\49.jpg" />
+    <Content Include="img\Flats1\5.jpg" />
+    <Content Include="img\Flats1\6.jpg" />
+    <Content Include="img\Flats1\7.jpg" />
+    <Content Include="img\Flats1\8.jpg" />
+    <Content Include="img\Flats1\9.jpg" />
+    <Content Include="img\Flats1\BALCONY 01.jpg" />
+    <Content Include="img\Flats1\BALCONY 02.jpg" />
+    <Content Include="img\Flats1\BALCONY 03.jpg" />
+    <Content Include="img\Flats1\FORMAL 01.jpg" />
+    <Content Include="img\Flats1\FORMAL 02.jpg" />
+    <Content Include="img\Flats1\FORMAL 03.jpg" />
+    <Content Include="img\Flats1\GBR 01.jpg" />
+    <Content Include="img\Flats1\GBR 04.jpg" />
+    <Content Include="img\Flats1\KBR 01.jpg" />
+    <Content Include="img\Flats1\KBR 02.jpg" />
+    <Content Include="img\Flats1\KBR 03.jpg" />
+    <Content Include="img\Flats1\KBR 04.jpg" />
+    <Content Include="img\Flats1\KITCHEN 01.jpg" />
+    <Content Include="img\Flats1\LIVING 01.jpg" />
+    <Content Include="img\Flats1\LIVING 02.jpg" />
+    <Content Include="img\Flats1\LIVING 03.jpg" />
+    <Content Include="img\Flats1\MBR 01.jpg" />
+    <Content Include="img\Flats1\MBR 02.jpg" />
+    <Content Include="img\Flats\001 %281%29.jpg" />
+    <Content Include="img\Flats\001 %282%29.jpg" />
+    <Content Include="img\Flats\001 %283%29.jpg" />
+    <Content Include="img\Flats\001 %284%29.jpg" />
+    <Content Include="img\Flats\001 %285%29.jpg" />
+    <Content Include="img\Flats\001 %286%29.jpg" />
+    <Content Include="img\Flats\001 %287%29.jpg" />
+    <Content Include="img\Flats\001 %288%29.jpg" />
+    <Content Include="img\Flats\1.jpg" />
+    <Content Include="img\Flats\10.jpg" />
+    <Content Include="img\Flats\11.jpg" />
+    <Content Include="img\Flats\12.jpg" />
+    <Content Include="img\Flats\13.jpg" />
+    <Content Include="img\Flats\14.jpg" />
+    <Content Include="img\Flats\15.jpg" />
+    <Content Include="img\Flats\16.jpg" />
+    <Content Include="img\Flats\17.jpg" />
+    <Content Include="img\Flats\18.jpg" />
+    <Content Include="img\Flats\19.jpg" />
+    <Content Include="img\Flats\2.jpg" />
+    <Content Include="img\Flats\20.jpg" />
+    <Content Include="img\Flats\21.jpg" />
+    <Content Include="img\Flats\22.jpg" />
+    <Content Include="img\Flats\23.jpg" />
+    <Content Include="img\Flats\24.jpg" />
+    <Content Include="img\Flats\25.jpg" />
+    <Content Include="img\Flats\26.jpg" />
+    <Content Include="img\Flats\27.jpg" />
+    <Content Include="img\Flats\28.jpg" />
+    <Content Include="img\Flats\29.jpg" />
+    <Content Include="img\Flats\3.jpg" />
+    <Content Include="img\Flats\30.jpg" />
+    <Content Include="img\Flats\31.jpg" />
+    <Content Include="img\Flats\32.jpg" />
+    <Content Include="img\Flats\33.jpg" />
+    <Content Include="img\Flats\34.jpg" />
+    <Content Include="img\Flats\35.jpg" />
+    <Content Include="img\Flats\36.jpg" />
+    <Content Include="img\Flats\37.jpg" />
+    <Content Include="img\Flats\38.jpg" />
+    <Content Include="img\Flats\39.jpg" />
+    <Content Include="img\Flats\4.jpg" />
+    <Content Include="img\Flats\40.jpg" />
+    <Content Include="img\Flats\41.jpg" />
+    <Content Include="img\Flats\42.jpg" />
+    <Content Include="img\Flats\43.jpg" />
+    <Content Include="img\Flats\44.jpg" />
+    <Content Include="img\Flats\45.jpg" />
+    <Content Include="img\Flats\46.jpg" />
+    <Content Include="img\Flats\47.jpg" />
+    <Content Include="img\Flats\48.jpg" />
+    <Content Include="img\Flats\49.jpg" />
+    <Content Include="img\Flats\5.jpg" />
+    <Content Include="img\Flats\6.jpg" />
+    <Content Include="img\Flats\7.jpg" />
+    <Content Include="img\Flats\8.jpg" />
+    <Content Include="img\Flats\9.jpg" />
+    <Content Include="img\Flats\BALCONY 01.jpg" />
+    <Content Include="img\Flats\BALCONY 02.jpg" />
+    <Content Include="img\Flats\BALCONY 03.jpg" />
+    <Content Include="img\Flats\FORMAL 01.jpg" />
+    <Content Include="img\Flats\FORMAL 02.jpg" />
+    <Content Include="img\Flats\FORMAL 03.jpg" />
+    <Content Include="img\Flats\GBR 01.jpg" />
+    <Content Include="img\Flats\GBR 04.jpg" />
+    <Content Include="img\Flats\KBR 01.jpg" />
+    <Content Include="img\Flats\KBR 02.jpg" />
+    <Content Include="img\Flats\KBR 03.jpg" />
+    <Content Include="img\Flats\KBR 04.jpg" />
+    <Content Include="img\Flats\KITCHEN 01.jpg" />
+    <Content Include="img\Flats\LIVING 01.jpg" />
+    <Content Include="img\Flats\LIVING 02.jpg" />
+    <Content Include="img\Flats\LIVING 03.jpg" />
+    <Content Include="img\Flats\MBR 01.jpg" />
+    <Content Include="img\Flats\MBR 02.jpg" />
+    <Content Include="img\homify-logo.jpg" />
+    <Content Include="img\homify.jpg" />
+    <Content Include="img\Hospital1\1.jpg" />
+    <Content Include="img\Hospital1\10.jpg" />
+    <Content Include="img\Hospital1\11.jpg" />
+    <Content Include="img\Hospital1\12.jpg" />
+    <Content Include="img\Hospital1\13.jpg" />
+    <Content Include="img\Hospital1\14.jpg" />
+    <Content Include="img\Hospital1\15.jpg" />
+    <Content Include="img\Hospital1\16.jpg" />
+    <Content Include="img\Hospital1\17.jpg" />
+    <Content Include="img\Hospital1\18.jpg" />
+    <Content Include="img\Hospital1\19.jpg" />
+    <Content Include="img\Hospital1\2.jpg" />
+    <Content Include="img\Hospital1\20.jpg" />
+    <Content Include="img\Hospital1\21.jpg" />
+    <Content Include="img\Hospital1\22.jpg" />
+    <Content Include="img\Hospital1\23.jpg" />
+    <Content Include="img\Hospital1\24.jpg" />
+    <Content Include="img\Hospital1\25.jpg" />
+    <Content Include="img\Hospital1\26.jpg" />
+    <Content Include="img\Hospital1\27.jpg" />
+    <Content Include="img\Hospital1\28.jpg" />
+    <Content Include="img\Hospital1\29.jpg" />
+    <Content Include="img\Hospital1\3.jpg" />
+    <Content Include="img\Hospital1\30.jpg" />
+    <Content Include="img\Hospital1\31.jpg" />
+    <Content Include="img\Hospital1\32.jpg" />
+    <Content Include="img\Hospital1\33.jpg" />
+    <Content Include="img\Hospital1\34.jpg" />
+    <Content Include="img\Hospital1\35.jpg" />
+    <Content Include="img\Hospital1\36.jpg" />
+    <Content Include="img\Hospital1\37.jpg" />
+    <Content Include="img\Hospital1\38.jpg" />
+    <Content Include="img\Hospital1\39.jpg" />
+    <Content Include="img\Hospital1\4.jpg" />
+    <Content Include="img\Hospital1\40.jpg" />
+    <Content Include="img\Hospital1\41.jpg" />
+    <Content Include="img\Hospital1\42.jpg" />
+    <Content Include="img\Hospital1\43.jpg" />
+    <Content Include="img\Hospital1\44.jpg" />
+    <Content Include="img\Hospital1\45.jpg" />
+    <Content Include="img\Hospital1\46.jpg" />
+    <Content Include="img\Hospital1\47.jpg" />
+    <Content Include="img\Hospital1\48.jpg" />
+    <Content Include="img\Hospital1\49.jpg" />
+    <Content Include="img\Hospital1\5.jpg" />
+    <Content Include="img\Hospital1\50.jpg" />
+    <Content Include="img\Hospital1\51.jpg" />
+    <Content Include="img\Hospital1\52.jpg" />
+    <Content Include="img\Hospital1\53.jpg" />
+    <Content Include="img\Hospital1\54.jpg" />
+    <Content Include="img\Hospital1\55.jpg" />
+    <Content Include="img\Hospital1\56.jpg" />
+    <Content Include="img\Hospital1\57.jpg" />
+    <Content Include="img\Hospital1\58.jpg" />
+    <Content Include="img\Hospital1\59.jpg" />
+    <Content Include="img\Hospital1\6.jpg" />
+    <Content Include="img\Hospital1\60.jpg" />
+    <Content Include="img\Hospital1\61.jpg" />
+    <Content Include="img\Hospital1\7.jpg" />
+    <Content Include="img\Hospital1\8.jpg" />
+    <Content Include="img\Hospital1\9.jpg" />
+    <Content Include="img\Hospital\1.jpg" />
+    <Content Include="img\Hospital\10.jpg" />
+    <Content Include="img\Hospital\11.jpg" />
+    <Content Include="img\Hospital\12.jpg" />
+    <Content Include="img\Hospital\13.jpg" />
+    <Content Include="img\Hospital\14.jpg" />
+    <Content Include="img\Hospital\15.jpg" />
+    <Content Include="img\Hospital\16.jpg" />
+    <Content Include="img\Hospital\17.jpg" />
+    <Content Include="img\Hospital\18.jpg" />
+    <Content Include="img\Hospital\19.jpg" />
+    <Content Include="img\Hospital\2.jpg" />
+    <Content Include="img\Hospital\20.jpg" />
+    <Content Include="img\Hospital\21.jpg" />
+    <Content Include="img\Hospital\22.jpg" />
+    <Content Include="img\Hospital\23.jpg" />
+    <Content Include="img\Hospital\24.jpg" />
+    <Content Include="img\Hospital\25.jpg" />
+    <Content Include="img\Hospital\26.jpg" />
+    <Content Include="img\Hospital\27.jpg" />
+    <Content Include="img\Hospital\28.jpg" />
+    <Content Include="img\Hospital\29.jpg" />
+    <Content Include="img\Hospital\3.jpg" />
+    <Content Include="img\Hospital\30.jpg" />
+    <Content Include="img\Hospital\31.jpg" />
+    <Content Include="img\Hospital\32.jpg" />
+    <Content Include="img\Hospital\33.jpg" />
+    <Content Include="img\Hospital\34.jpg" />
+    <Content Include="img\Hospital\35.jpg" />
+    <Content Include="img\Hospital\36.jpg" />
+    <Content Include="img\Hospital\37.jpg" />
+    <Content Include="img\Hospital\38.jpg" />
+    <Content Include="img\Hospital\39.jpg" />
+    <Content Include="img\Hospital\4.jpg" />
+    <Content Include="img\Hospital\40.jpg" />
+    <Content Include="img\Hospital\41.jpg" />
+    <Content Include="img\Hospital\42.jpg" />
+    <Content Include="img\Hospital\43.jpg" />
+    <Content Include="img\Hospital\44.jpg" />
+    <Content Include="img\Hospital\45.jpg" />
+    <Content Include="img\Hospital\46.jpg" />
+    <Content Include="img\Hospital\47.jpg" />
+    <Content Include="img\Hospital\48.jpg" />
+    <Content Include="img\Hospital\49.jpg" />
+    <Content Include="img\Hospital\5.jpg" />
+    <Content Include="img\Hospital\50.jpg" />
+    <Content Include="img\Hospital\51.jpg" />
+    <Content Include="img\Hospital\52.jpg" />
+    <Content Include="img\Hospital\53.jpg" />
+    <Content Include="img\Hospital\54.jpg" />
+    <Content Include="img\Hospital\55.jpg" />
+    <Content Include="img\Hospital\56.jpg" />
+    <Content Include="img\Hospital\57.jpg" />
+    <Content Include="img\Hospital\58.jpg" />
+    <Content Include="img\Hospital\59.jpg" />
+    <Content Include="img\Hospital\6.jpg" />
+    <Content Include="img\Hospital\60.jpg" />
+    <Content Include="img\Hospital\61.jpg" />
+    <Content Include="img\Hospital\7.jpg" />
+    <Content Include="img\Hospital\8.jpg" />
+    <Content Include="img\Hospital\9.jpg" />
+    <Content Include="img\Hotel1\1.jpg" />
+    <Content Include="img\Hotel1\10.jpg" />
+    <Content Include="img\Hotel1\11.jpg" />
+    <Content Include="img\Hotel1\12.jpg" />
+    <Content Include="img\Hotel1\13.jpg" />
+    <Content Include="img\Hotel1\14.jpg" />
+    <Content Include="img\Hotel1\15.jpg" />
+    <Content Include="img\Hotel1\16.jpg" />
+    <Content Include="img\Hotel1\17.jpg" />
+    <Content Include="img\Hotel1\18.jpg" />
+    <Content Include="img\Hotel1\19.jpg" />
+    <Content Include="img\Hotel1\2.jpg" />
+    <Content Include="img\Hotel1\20.jpg" />
+    <Content Include="img\Hotel1\21.jpg" />
+    <Content Include="img\Hotel1\22.jpg" />
+    <Content Include="img\Hotel1\23.jpg" />
+    <Content Include="img\Hotel1\24.jpg" />
+    <Content Include="img\Hotel1\25.jpg" />
+    <Content Include="img\Hotel1\26.jpg" />
+    <Content Include="img\Hotel1\27.jpg" />
+    <Content Include="img\Hotel1\28.jpg" />
+    <Content Include="img\Hotel1\29.jpg" />
+    <Content Include="img\Hotel1\3.jpg" />
+    <Content Include="img\Hotel1\30.jpg" />
+    <Content Include="img\Hotel1\31.jpg" />
+    <Content Include="img\Hotel1\32.jpg" />
+    <Content Include="img\Hotel1\33.jpg" />
+    <Content Include="img\Hotel1\34.jpg" />
+    <Content Include="img\Hotel1\35.jpg" />
+    <Content Include="img\Hotel1\4.jpg" />
+    <Content Include="img\Hotel1\5.jpg" />
+    <Content Include="img\Hotel1\6.jpg" />
+    <Content Include="img\Hotel1\7.jpg" />
+    <Content Include="img\Hotel1\8.jpg" />
+    <Content Include="img\Hotel1\9.jpg" />
+    <Content Include="img\Hotel\1.jpg" />
+    <Content Include="img\Hotel\10.jpg" />
+    <Content Include="img\Hotel\11.jpg" />
+    <Content Include="img\Hotel\12.jpg" />
+    <Content Include="img\Hotel\13.jpg" />
+    <Content Include="img\Hotel\14.jpg" />
+    <Content Include="img\Hotel\15.jpg" />
+    <Content Include="img\Hotel\16.jpg" />
+    <Content Include="img\Hotel\17.jpg" />
+    <Content Include="img\Hotel\18.jpg" />
+    <Content Include="img\Hotel\19.jpg" />
+    <Content Include="img\Hotel\2.jpg" />
+    <Content Include="img\Hotel\20.jpg" />
+    <Content Include="img\Hotel\21.jpg" />
+    <Content Include="img\Hotel\22.jpg" />
+    <Content Include="img\Hotel\23.jpg" />
+    <Content Include="img\Hotel\24.jpg" />
+    <Content Include="img\Hotel\25.jpg" />
+    <Content Include="img\Hotel\26.jpg" />
+    <Content Include="img\Hotel\27.jpg" />
+    <Content Include="img\Hotel\28.jpg" />
+    <Content Include="img\Hotel\29.jpg" />
+    <Content Include="img\Hotel\3.jpg" />
+    <Content Include="img\Hotel\30.jpg" />
+    <Content Include="img\Hotel\31.jpg" />
+    <Content Include="img\Hotel\32.jpg" />
+    <Content Include="img\Hotel\33.jpg" />
+    <Content Include="img\Hotel\34.jpg" />
+    <Content Include="img\Hotel\35.jpg" />
+    <Content Include="img\Hotel\4.jpg" />
+    <Content Include="img\Hotel\5.jpg" />
+    <Content Include="img\Hotel\6.jpg" />
+    <Content Include="img\Hotel\7.jpg" />
+    <Content Include="img\Hotel\8.jpg" />
+    <Content Include="img\Hotel\9.jpg" />
+    <Content Include="img\office-interior1\01.jpg" />
+    <Content Include="img\office-interior1\02.jpg" />
+    <Content Include="img\office-interior1\03.jpg" />
+    <Content Include="img\office-interior1\04.jpeg" />
+    <Content Include="img\office-interior1\05.jpg" />
+    <Content Include="img\office-interior1\06.jpg" />
+    <Content Include="img\office-interior1\07.jpg" />
+    <Content Include="img\office-interior1\1.jpg" />
+    <Content Include="img\office-interior1\2.jpg" />
+    <Content Include="img\office-interior1\3.jpg" />
+    <Content Include="img\office-interior1\4.jpg" />
+    <Content Include="img\office-interior1\5.jpg" />
+    <Content Include="img\office-interior1\6.jpg" />
+    <Content Include="img\office-interior1\7.jpg" />
+    <Content Include="img\office-interior1\8.jpg" />
+    <Content Include="img\office-interior\01.jpg" />
+    <Content Include="img\office-interior\02.jpg" />
+    <Content Include="img\office-interior\03.jpg" />
+    <Content Include="img\office-interior\04.jpeg" />
+    <Content Include="img\office-interior\05.jpg" />
+    <Content Include="img\office-interior\06.jpg" />
+    <Content Include="img\office-interior\07.jpg" />
+    <Content Include="img\office-interior\08.jpg" />
+    <Content Include="img\office-interior\1.jpg" />
+    <Content Include="img\office-interior\2.jpg" />
+    <Content Include="img\office-interior\3.jpg" />
+    <Content Include="img\office-interior\4.jpg" />
+    <Content Include="img\office-interior\5.jpg" />
+    <Content Include="img\office-interior\6.jpg" />
+    <Content Include="img\office-interior\7.jpg" />
+    <Content Include="img\office-interior\8.jpg" />
+    <Content Include="img\office1\01.jpg" />
+    <Content Include="img\office1\02.jpg" />
+    <Content Include="img\office1\03.jpg" />
+    <Content Include="img\office1\04.jpeg" />
+    <Content Include="img\office1\05.jpg" />
+    <Content Include="img\office1\06.jpg" />
+    <Content Include="img\office1\07.jpg" />
+    <Content Include="img\Residential1\10.jpg" />
+    <Content Include="img\Residential1\11.jpg" />
+    <Content Include="img\Residential1\12.jpg" />
+    <Content Include="img\Residential1\13.jpg" />
+    <Content Include="img\Residential1\14.jpg" />
+    <Content Include="img\Residential1\15.jpg" />
+    <Content Include="img\Residential1\16.jpg" />
+    <Content Include="img\Residential1\17.jpg" />
+    <Content Include="img\Residential1\18.jpg" />
+    <Content Include="img\Residential1\19.jpg" />
+    <Content Include="img\Residential1\2.jpg" />
+    <Content Include="img\Residential1\20.jpg" />
+    <Content Include="img\Residential1\21.jpg" />
+    <Content Include="img\Residential1\22.jpg" />
+    <Content Include="img\Residential1\23.jpg" />
+    <Content Include="img\Residential1\24.jpg" />
+    <Content Include="img\Residential1\25.jpg" />
+    <Content Include="img\Residential1\26.jpg" />
+    <Content Include="img\Residential1\27.jpg" />
+    <Content Include="img\Residential1\28.jpg" />
+    <Content Include="img\Residential1\29.jpg" />
+    <Content Include="img\Residential1\3.jpg" />
+    <Content Include="img\Residential1\30.jpg" />
+    <Content Include="img\Residential1\31.jpg" />
+    <Content Include="img\Residential1\32.jpg" />
+    <Content Include="img\Residential1\33.jpg" />
+    <Content Include="img\Residential1\34.jpg" />
+    <Content Include="img\Residential1\35.jpg" />
+    <Content Include="img\Residential1\36.jpg" />
+    <Content Include="img\Residential1\37.jpg" />
+    <Content Include="img\Residential1\38.jpg" />
+    <Content Include="img\Residential1\39.jpg" />
+    <Content Include="img\Residential1\4.jpg" />
+    <Content Include="img\Residential1\40.jpg" />
+    <Content Include="img\Residential1\41.jpg" />
+    <Content Include="img\Residential1\42.jpg" />
+    <Content Include="img\Residential1\43.jpg" />
+    <Content Include="img\Residential1\44.jpg" />
+    <Content Include="img\Residential1\45.jpg" />
+    <Content Include="img\Residential1\46.jpg" />
+    <Content Include="img\Residential1\47.jpg" />
+    <Content Include="img\Residential1\48.jpg" />
+    <Content Include="img\Residential1\49.jpg" />
+    <Content Include="img\Residential1\5.jpg" />
+    <Content Include="img\Residential1\50.jpg" />
+    <Content Include="img\Residential1\51.jpg" />
+    <Content Include="img\Residential1\52.jpg" />
+    <Content Include="img\Residential1\53.jpg" />
+    <Content Include="img\Residential1\54.jpg" />
+    <Content Include="img\Residential1\55.jpg" />
+    <Content Include="img\Residential1\56.jpg" />
+    <Content Include="img\Residential1\57.jpg" />
+    <Content Include="img\Residential1\58.jpg" />
+    <Content Include="img\Residential1\59.jpg" />
+    <Content Include="img\Residential1\6.jpg" />
+    <Content Include="img\Residential1\60.jpg" />
+    <Content Include="img\Residential1\61.jpg" />
+    <Content Include="img\Residential1\62.jpg" />
+    <Content Include="img\Residential1\63.jpg" />
+    <Content Include="img\Residential1\64.jpg" />
+    <Content Include="img\Residential1\65.jpg" />
+    <Content Include="img\Residential1\66.jpg" />
+    <Content Include="img\Residential1\67.jpg" />
+    <Content Include="img\Residential1\68.jpg" />
+    <Content Include="img\Residential1\69.jpg" />
+    <Content Include="img\Residential1\7.jpg" />
+    <Content Include="img\office\01.jpg" />
+    <Content Include="img\office\02.jpg" />
+    <Content Include="img\office\03.jpg" />
+    <Content Include="img\office\04.jpeg" />
+    <Content Include="img\office\05.jpg" />
+    <Content Include="img\office\06.jpg" />
+    <Content Include="img\office\07.jpg" />
+    <Content Include="img\office\08.jpg" />
+    <Content Include="img\Residential1\1.jpg" />
+    <Content Include="img\Residential1\70.jpg" />
+    <Content Include="img\Residential1\71.jpg" />
+    <Content Include="img\Residential1\72.jpg" />
+    <Content Include="img\Residential1\73.jpg" />
+    <Content Include="img\Residential1\74.jpg" />
+    <Content Include="img\Residential1\75.jpg" />
+    <Content Include="img\Residential1\76.jpg" />
+    <Content Include="img\Residential1\77.jpg" />
+    <Content Include="img\Residential1\78.jpg" />
+    <Content Include="img\Residential1\79.jpg" />
+    <Content Include="img\Residential1\8.jpg" />
+    <Content Include="img\Residential1\80.jpg" />
+    <Content Include="img\Residential1\81.jpg" />
+    <Content Include="img\Residential1\82.jpg" />
+    <Content Include="img\Residential1\83.jpg" />
+    <Content Include="img\Residential1\84.jpg" />
+    <Content Include="img\Residential1\85.jpg" />
+    <Content Include="img\Residential1\86.jpg" />
+    <Content Include="img\Residential1\87.jpg" />
+    <Content Include="img\Residential1\88.jpg" />
+    <Content Include="img\Residential1\89.jpg" />
+    <Content Include="img\Residential1\9.jpg" />
+    <Content Include="img\Residential1\90.jpg" />
+    <Content Include="img\Residential1\91.jpg" />
+    <Content Include="img\Residential1\92.jpg" />
+    <Content Include="img\Residential1\93.jpg" />
+    <Content Include="img\Residential1\94.jpg" />
+    <Content Include="img\Residential1\95.jpg" />
+    <Content Include="img\Residential1\96.jpg" />
+    <Content Include="img\Residential1\97.jpg" />
+    <Content Include="img\Residential1\98.jpg" />
+    <Content Include="img\Residential1\99.jpg" />
+    <Content Include="img\Residential\64.jpg" />
+    <Content Include="img\Residential\65.jpg" />
+    <Content Include="img\Residential\66.jpg" />
+    <Content Include="img\Residential\67.jpg" />
+    <Content Include="img\Residential\68.jpg" />
+    <Content Include="img\Residential\69.jpg" />
+    <Content Include="img\Residential\70.jpg" />
+    <Content Include="img\Residential\71.jpg" />
+    <Content Include="img\Residential\72.jpg" />
+    <Content Include="img\Residential\73.jpg" />
+    <Content Include="img\Residential\74.jpg" />
+    <Content Include="img\Residential\75.jpg" />
+    <Content Include="img\Residential\76.jpg" />
+    <Content Include="img\Residential\77.jpg" />
+    <Content Include="img\Residential\78.jpg" />
+    <Content Include="img\Residential\79.jpg" />
+    <Content Include="img\Residential\80.jpg" />
+    <Content Include="img\Residential\81.jpg" />
+    <Content Include="img\Residential\82.jpg" />
+    <Content Include="img\Residential\83.jpg" />
+    <Content Include="img\Residential\84.jpg" />
+    <Content Include="img\Residential\85.jpg" />
+    <Content Include="img\Residential\86.jpg" />
+    <Content Include="img\Residential\87.jpg" />
+    <Content Include="img\Residential\88.jpg" />
+    <Content Include="img\Residential\89.jpg" />
+    <Content Include="img\Residential\9.jpg" />
+    <Content Include="img\Residential\1.jpg" />
+    <Content Include="img\Residential\10.jpg" />
+    <Content Include="img\Residential\11.jpg" />
+    <Content Include="img\Residential\12.jpg" />
+    <Content Include="img\Residential\13.jpg" />
+    <Content Include="img\Residential\14.jpg" />
+    <Content Include="img\Residential\15.jpg" />
+    <Content Include="img\Residential\16.jpg" />
+    <Content Include="img\Residential\17.jpg" />
+    <Content Include="img\Residential\18.jpg" />
+    <Content Include="img\Residential\19.jpg" />
+    <Content Include="img\Residential\2.jpg" />
+    <Content Include="img\Residential\20.jpg" />
+    <Content Include="img\Residential\21.jpg" />
+    <Content Include="img\Residential\22.jpg" />
+    <Content Include="img\Residential\23.jpg" />
+    <Content Include="img\Residential\24.jpg" />
+    <Content Include="img\Residential\25.jpg" />
+    <Content Include="img\Residential\26.jpg" />
+    <Content Include="img\Residential\27.jpg" />
+    <Content Include="img\Residential\28.jpg" />
+    <Content Include="img\Residential\29.jpg" />
+    <Content Include="img\Residential\3.jpg" />
+    <Content Include="img\Residential\30.jpg" />
+    <Content Include="img\Residential\31.jpg" />
+    <Content Include="img\Residential\32.jpg" />
+    <Content Include="img\Residential\33.jpg" />
+    <Content Include="img\Residential\34.jpg" />
+    <Content Include="img\Residential\35.jpg" />
+    <Content Include="img\Residential\36.jpg" />
+    <Content Include="img\Residential\37.jpg" />
+    <Content Include="img\Residential\38.jpg" />
+    <Content Include="img\Residential\39.jpg" />
+    <Content Include="img\Residential\4.jpg" />
+    <Content Include="img\Residential\40.jpg" />
+    <Content Include="img\Residential\41.jpg" />
+    <Content Include="img\Residential\42.jpg" />
+    <Content Include="img\Residential\43.jpg" />
+    <Content Include="img\Residential\44.jpg" />
+    <Content Include="img\Residential\45.jpg" />
+    <Content Include="img\Residential\46.jpg" />
+    <Content Include="img\Residential\47.jpg" />
+    <Content Include="img\Residential\48.jpg" />
+    <Content Include="img\Residential\49.jpg" />
+    <Content Include="img\Residential\5.jpg" />
+    <Content Include="img\Residential\50.jpg" />
+    <Content Include="img\Residential\51.jpg" />
+    <Content Include="img\Residential\52.jpg" />
+    <Content Include="img\Residential\53.jpg" />
+    <Content Include="img\Residential\54.jpg" />
+    <Content Include="img\Residential\55.jpg" />
+    <Content Include="img\Residential\56.jpg" />
+    <Content Include="img\Residential\57.jpg" />
+    <Content Include="img\Residential\58.jpg" />
+    <Content Include="img\Residential\59.jpg" />
+    <Content Include="img\Residential\6.jpg" />
+    <Content Include="img\Residential\60.jpg" />
+    <Content Include="img\Residential\61.jpg" />
+    <Content Include="img\Residential\62.jpg" />
+    <Content Include="img\Residential\63.jpg" />
+    <Content Include="img\Residential\7.jpg" />
+    <Content Include="img\Residential\8.jpg" />
+    <Content Include="img\Residential\90.jpg" />
+    <Content Include="img\Residential\91.jpg" />
+    <Content Include="img\Residential\92.jpg" />
+    <Content Include="img\Residential\93.jpg" />
+    <Content Include="img\Residential\94.jpg" />
+    <Content Include="img\Residential\95.jpg" />
+    <Content Include="img\Residential\96.jpg" />
+    <Content Include="img\Residential\97.jpg" />
+    <Content Include="img\Residential\98.jpg" />
+    <Content Include="img\Residential\99.jpg" />
+    <Content Include="img\sulekha.png" />
+    <Content Include="img\sulekha1.png" />
+    <Content Include="img\Urban.jpg" />
+    <Content Include="img\urbanhomez.jpg" />
+    <Content Include="img\zingyhomes.jpg" />
+    <Content Include="img\zingyhomes1.jpg" />
+    <Content Include="index.html" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\classie.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\imagesloaded.pkgd.min.js" />
+    <Content Include="js\isotope.pkgd.min.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery.bxslider.min.js" />
+    <Content Include="js\jquery.countTo.js" />
+    <Content Include="js\jquery.datetimepicker.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.prettyPhoto.js" />
+    <Content Include="js\jquery.ui.touch-punch.min.js" />
+    <Content Include="js\master.js" />
+    <Content Include="js\modernizr.custom.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\placeholders.js" />
+    <Content Include="js\waypoints.min.js" />
+    <Content Include="js\wow.min.js" />
+    <Content Include="Methodology.aspx" />
+    <Content Include="mission-vision.aspx" />
+    <Content Include="mission-vision.html" />
+    <Content Include="notice.aspx" />
+    <Content Include="office-interior.aspx" />
+    <Content Include="Office.aspx" />
+    <Content Include="our-approach.aspx" />
+    <Content Include="our-approach.html" />
+    <Content Include="project-execution.aspx" />
+    <Content Include="Residential.aspx" />
+    <Content Include="robots.txt" />
+    <Content Include="ror.xml" />
+    <Content Include="service.aspx" />
+    <Content Include="Services.aspx" />
+    <Content Include="Services.html" />
+    <Content Include="Shop.aspx" />
+    <Content Include="sitemap.aspx" />
+    <Content Include="sitemap.html" />
+    <Content Include="sitemap.xml" />
+    <Content Include="SiteVisit.aspx" />
+    <Content Include="solutions.aspx" />
+    <Content Include="Villas.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+    <Content Include="why-us.aspx" />
+    <Content Include="why-us.aspx.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3d-design-concept.aspx.cs">
+      <DependentUpon>3d-design-concept.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="3d-design-concept.aspx.designer.cs">
+      <DependentUpon>3d-design-concept.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="about-us.aspx.cs">
+      <DependentUpon>about-us.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="about-us.aspx.designer.cs">
+      <DependentUpon>about-us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="blog.aspx.cs">
+      <DependentUpon>blog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="blog.aspx.designer.cs">
+      <DependentUpon>blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact-us.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>contact-us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact-us.aspx.designer.cs">
+      <DependentUpon>contact-us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.aspx.cs">
+      <DependentUpon>Customer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Customer.aspx.designer.cs">
+      <DependentUpon>Customer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Exteriors.aspx.cs">
+      <DependentUpon>Exteriors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exteriors.aspx.designer.cs">
+      <DependentUpon>Exteriors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Flats.aspx.cs">
+      <DependentUpon>Flats.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Flats.aspx.designer.cs">
+      <DependentUpon>Flats.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gallery.aspx.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gallery.aspx.designer.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Hospital.aspx.cs">
+      <DependentUpon>Hospital.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hospital.aspx.designer.cs">
+      <DependentUpon>Hospital.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HotelResturant.aspx.cs">
+      <DependentUpon>HotelResturant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HotelResturant.aspx.designer.cs">
+      <DependentUpon>HotelResturant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Methodology.aspx.cs">
+      <DependentUpon>Methodology.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Methodology.aspx.designer.cs">
+      <DependentUpon>Methodology.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mission-vision.aspx.cs">
+      <DependentUpon>mission-vision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mission-vision.aspx.designer.cs">
+      <DependentUpon>mission-vision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="notice.aspx.cs">
+      <DependentUpon>notice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="notice.aspx.designer.cs">
+      <DependentUpon>notice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="office-interior.aspx.cs">
+      <DependentUpon>office-interior.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="office-interior.aspx.designer.cs">
+      <DependentUpon>office-interior.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Office.aspx.cs">
+      <DependentUpon>Office.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Office.aspx.designer.cs">
+      <DependentUpon>Office.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="our-approach.aspx.cs">
+      <DependentUpon>our-approach.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="our-approach.aspx.designer.cs">
+      <DependentUpon>our-approach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="panel.Master.cs">
+      <DependentUpon>panel.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="panel.Master.designer.cs">
+      <DependentUpon>panel.Master</DependentUpon>
+    </Compile>
+    <Compile Include="project-execution.aspx.cs">
+      <DependentUpon>project-execution.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="project-execution.aspx.designer.cs">
+      <DependentUpon>project-execution.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Residential.aspx.cs">
+      <DependentUpon>Residential.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Residential.aspx.designer.cs">
+      <DependentUpon>Residential.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="service.aspx.cs">
+      <DependentUpon>service.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="service.aspx.designer.cs">
+      <DependentUpon>service.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.aspx.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shop.aspx.designer.cs">
+      <DependentUpon>Shop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sitemap.aspx.cs">
+      <DependentUpon>sitemap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sitemap.aspx.designer.cs">
+      <DependentUpon>sitemap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SiteVisit.aspx.cs">
+      <DependentUpon>SiteVisit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteVisit.aspx.designer.cs">
+      <DependentUpon>SiteVisit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="solutions.aspx.cs">
+      <DependentUpon>solutions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="solutions.aspx.designer.cs">
+      <DependentUpon>solutions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Villas.aspx.cs">
+      <DependentUpon>Villas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Villas.aspx.designer.cs">
+      <DependentUpon>Villas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="why-us.aspx.cs">
+      <DependentUpon>why-us.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="why-us.aspx.designer.cs">
+      <DependentUpon>why-us.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Leads.xlsx" />
+    <Content Include="panel.Master" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1616</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

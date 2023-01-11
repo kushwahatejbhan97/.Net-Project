@@ -1,0 +1,18 @@
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\bin\Release\DAL.dll
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\bin\Release\DAL.pdb
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\obj\Release\DAL.dll
+C:\Users\Acer\Desktop\sid\Sidvin\DAL\obj\Release\DAL.pdb
+D:\Ongoing\Sidvin\Sidvin\DAL\bin\Release\DAL.dll
+D:\Ongoing\Sidvin\Sidvin\DAL\bin\Release\DAL.pdb
+D:\Ongoing\Sidvin\Sidvin\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Ongoing\Sidvin\Sidvin\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Ongoing\Sidvin\Sidvin\DAL\obj\Release\DAL.dll
+D:\Ongoing\Sidvin\Sidvin\DAL\obj\Release\DAL.pdb
+D:\On Going\Sidvin\DAL\bin\Release\DAL.dll
+D:\On Going\Sidvin\DAL\bin\Release\DAL.pdb
+D:\On Going\Sidvin\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\On Going\Sidvin\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\On Going\Sidvin\DAL\obj\Release\DAL.dll
+D:\On Going\Sidvin\DAL\obj\Release\DAL.pdb

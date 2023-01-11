@@ -1,0 +1,18 @@
+D:\Ongoing\icemmmt\icemmmt\DAL\bin\Debug\DAL.dll
+D:\Ongoing\icemmmt\icemmmt\DAL\bin\Debug\DAL.pdb
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Debug\DAL.dll
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Debug\DAL.pdb
+F:\icemmmt\DAL\bin\Debug\DAL.dll
+F:\icemmmt\DAL\bin\Debug\DAL.pdb
+F:\icemmmt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\icemmmt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\icemmmt\DAL\obj\Debug\DAL.dll
+F:\icemmmt\DAL\obj\Debug\DAL.pdb
+D:\On Going\icemmmt 30-06-2022\DAL\bin\Debug\DAL.dll
+D:\On Going\icemmmt 30-06-2022\DAL\bin\Debug\DAL.pdb
+D:\On Going\icemmmt 30-06-2022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\On Going\icemmmt 30-06-2022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\On Going\icemmmt 30-06-2022\DAL\obj\Debug\DAL.dll
+D:\On Going\icemmmt 30-06-2022\DAL\obj\Debug\DAL.pdb

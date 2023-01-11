@@ -1,0 +1,305 @@
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\Sidvin.dll.config
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\Sidvin.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\Sidvin.pdb
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csi.exe.config
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Console.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Net.Http.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\DAL.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\DAL.pdb
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CopyComplete
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\obj\Debug\Sidvin.dll
+C:\Users\Acer\Desktop\sid\Sidvin\Sidvin\obj\Debug\Sidvin.pdb
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\Sidvin.dll.config
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\Sidvin.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\Sidvin.pdb
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csi.exe.config
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Console.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Net.Http.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\DAL.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\DAL.pdb
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CopyComplete
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\obj\Debug\Sidvin.dll
+C:\Users\Acer\Desktop\backup\sid\Sidvin\Sidvin\obj\Debug\Sidvin.pdb
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\Sidvin.dll.config
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\Sidvin.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\Sidvin.pdb
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csc.exe
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csc.exe.config
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csc.rsp
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csi.exe
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csi.exe.config
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\csi.rsp
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.AppContext.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Collections.Immutable.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Console.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Net.Http.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Net.Sockets.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.ValueTuple.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\vbc.exe
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\vbc.exe.config
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\vbc.rsp
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe.config
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\DAL.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\DAL.pdb
+D:\Ongoing\Sidvin\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ongoing\Sidvin\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.AssemblyReference.cache
+D:\Ongoing\Sidvin\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CoreCompileInputs.cache
+D:\Ongoing\Sidvin\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CopyComplete
+D:\Ongoing\Sidvin\Sidvin\Sidvin\obj\Debug\Sidvin.dll
+D:\Ongoing\Sidvin\Sidvin\Sidvin\obj\Debug\Sidvin.pdb
+D:\On Going\Sidvin\Sidvin\bin\Sidvin.dll.config
+D:\On Going\Sidvin\Sidvin\bin\Sidvin.dll
+D:\On Going\Sidvin\Sidvin\bin\Sidvin.pdb
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csc.exe
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csc.exe.config
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csc.rsp
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csi.exe
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csi.exe.config
+D:\On Going\Sidvin\Sidvin\bin\roslyn\csi.rsp
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\On Going\Sidvin\Sidvin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.AppContext.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Collections.Immutable.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Console.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Globalization.Calendars.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Net.Http.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Net.Sockets.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Reflection.Metadata.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.ValueTuple.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\On Going\Sidvin\Sidvin\bin\roslyn\vbc.exe
+D:\On Going\Sidvin\Sidvin\bin\roslyn\vbc.exe.config
+D:\On Going\Sidvin\Sidvin\bin\roslyn\vbc.rsp
+D:\On Going\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe
+D:\On Going\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe.config
+D:\On Going\Sidvin\Sidvin\bin\DAL.dll
+D:\On Going\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\On Going\Sidvin\Sidvin\bin\DAL.pdb
+D:\On Going\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\On Going\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.AssemblyReference.cache
+D:\On Going\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CoreCompileInputs.cache
+D:\On Going\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CopyComplete
+D:\On Going\Sidvin\Sidvin\obj\Debug\Sidvin.dll
+D:\On Going\Sidvin\Sidvin\obj\Debug\Sidvin.pdb
+D:\On Going BackUp\Sidvin\Sidvin\bin\Sidvin.dll.config
+D:\On Going BackUp\Sidvin\Sidvin\bin\Sidvin.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\Sidvin.pdb
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csc.exe
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csc.exe.config
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csc.rsp
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csi.exe
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csi.exe.config
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\csi.rsp
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.AppContext.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Collections.Immutable.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Console.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Globalization.Calendars.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Net.Http.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Net.Sockets.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Reflection.Metadata.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.ValueTuple.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\vbc.exe
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\vbc.exe.config
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\vbc.rsp
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe
+D:\On Going BackUp\Sidvin\Sidvin\bin\roslyn\VBCSCompiler.exe.config
+D:\On Going BackUp\Sidvin\Sidvin\bin\DAL.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\On Going BackUp\Sidvin\Sidvin\bin\DAL.pdb
+D:\On Going BackUp\Sidvin\Sidvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\On Going BackUp\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.AssemblyReference.cache
+D:\On Going BackUp\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CoreCompileInputs.cache
+D:\On Going BackUp\Sidvin\Sidvin\obj\Debug\Sidvin.csproj.CopyComplete
+D:\On Going BackUp\Sidvin\Sidvin\obj\Debug\Sidvin.dll
+D:\On Going BackUp\Sidvin\Sidvin\obj\Debug\Sidvin.pdb

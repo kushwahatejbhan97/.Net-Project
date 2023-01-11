@@ -1,0 +1,36 @@
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\DAL.dll.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\DAL.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\DAL.pdb
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\AjaxControlToolkit.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\Razorpay.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\obj\Release\DAL.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\DAL\obj\Release\DAL.pdb
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.dll.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.pdb
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\AjaxControlToolkit.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Razorpay.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.xml
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.pdb
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.dll.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\DAL.pdb
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\AjaxControlToolkit.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Razorpay.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\bin\Release\Newtonsoft.Json.xml
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,159 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="icemmmt.admin.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta content="" name="description" />
+        <meta content="icemmmt" name="author" />
+       
+        <link rel="shortcut icon" href="assets/images/favicon.png">
+
+       
+        <link href="assets/css/bootstrap.min.css" id="bootstrapstyle" rel="stylesheet" type="text/css" />
+        
+        <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+        
+        <link href="assets/css/app.min.css" id="appstyle" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <title>Admin Panel | KiranaWorld</title>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header id="page-topbar">
+                <div class="navbar-header">
+                    <div class="d-flex">
+                      <div class="navbar-brand-box">
+                            <a href="Dashboard.aspx" class="logo logo-dark">
+                                <span class="logo-sm">
+                                    <img src="/Admin/images/colg1.png" height="40"/>
+                                </span>
+                                <span class="logo-lg">
+                                <img src="/Admin/images/colg1.png" height="60"/>
+                                </span>
+                            </a>
+
+                            <a href="Dashboard.aspx" class="logo logo-light">
+                                <span class="logo-sm">
+                                <img src="/Admin/images/colg1.png" height="40"/>
+                                   
+                                </span>
+                                <span class="logo-lg">
+                                    <img src="/Admin/images/colg1.png" height="60"/>
+                                </span>
+                            </a>
+                        </div>
+                      
+                        <button type="button" class="btn btn-sm px-3 font-size-16 header-item waves-effect" id="vertical-menu-btn">
+                           
+                            <i class="fa fa-fw fa-bars"></i>
+                        </button>
+
+                      
+                    </div>
+
+                    <div class="d-flex">
+
+                        
+
+                        
+            
+                    </div>
+                </div>
+            </header>
+
+
+
+    <form id="form1" runat="server" enctype="multipart/form-data">
+        <div class="vertical-menu">
+
+                <div data-simplebar class="h-100">
+
+                    
+                    <div id="sidebar-menu">
+            
+            <ul class="metismenu list-unstyled" id="side-menu">
+                
+
+                <li>
+                    <a href="Dashboard.aspx" class="waves-effect">
+                        <i class="bx bx-home-circle"></i>
+                        <span>Dashboard</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="notice.aspx" class="waves-effect">
+                        <i class="bx bx-home-circle"></i>
+                        <span>Notice</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="LatestUpdates.aspx" class="waves-effect">
+                        <i class="bx bx-home-circle"></i>
+                        <span>Latest Updates</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="contact.aspx" class="waves-effect">
+                        <i class="bx bx-home-circle"></i>
+                        <span>Contacts</span>
+                    </a>
+                </li>
+               
+
+                             <li>
+                    <a href="ChangePass.aspx" class="waves-effect">
+                        <i class="bx bx-file"></i>
+                        <span>Change Password</span>
+                    </a>
+                </li>
+
+                
+
+                <li>
+     <asp:LinkButton ID="LinkButton3" runat="server" OnClick="logout"  >
+                    
+                       <i class="bx bx-power-off" aria-hidden="true"></i>
+                        <span>Logout</span>
+                    </asp:LinkButton>
+                </li>
+            </ul>
+        </div>
+                   
+                </div>
+            </div>
+
+        <div class="main-content">
+            <asp:ContentPlaceHolder ID="body" runat="server">
+                
+            </asp:ContentPlaceHolder>
+
+            <footer class="footer">
+                    <div class="container-fluid">
+                        <div class="row">
+                            
+                        </div>
+                    </div>
+                </footer>
+        </div>
+    </form>
+
+    <div class="rightbar-overlay"></div>
+
+        
+        <script src="assets/libs/jquery/jquery.min.js"></script>
+        <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/libs/metismenu/metisMenu.min.js"></script>
+        <script src="assets/libs/simplebar/simplebar.min.js"></script>
+        <script src="assets/libs/node-waves/waves.min.js"></script>
+        <script src="assets/libs/parsleyjs/parsley.min.js"></script>
+        <script src="assets/js/pages/form-validation.init.js"></script>
+        <script src="assets/js/app.js"></script>
+</body>
+</html>

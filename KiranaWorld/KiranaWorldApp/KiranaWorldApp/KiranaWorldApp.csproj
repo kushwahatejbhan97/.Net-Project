@@ -1,0 +1,896 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B15AC08-AA20-4296-A588-1D0A656EF7A4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KiranaWorldApp</RootNamespace>
+    <AssemblyName>KiranaWorldApp</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44383</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=20.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\Ongoing project\KiranaWorld\KiranaWorldWeb 24-04-21\KiranaWorldWeb\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="paytm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\PayTM_AstroBasic.2.0.0\lib\.net_4.5\paytm.dll</HintPath>
+    </Reference>
+    <Reference Include="PaytmChecksum, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\PaytmChecksum.1.0.0\lib\PaytmChecksum.dll</HintPath>
+    </Reference>
+    <Reference Include="Razorpay, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Razorpay.3.0.0\lib\net45\Razorpay.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="212.png" />
+    <Content Include="Account.aspx" />
+    <Content Include="Address.aspx" />
+    <Content Include="AdminImg\close.png" />
+    <Content Include="AdminImg\KiranaWorld.png" />
+    <Content Include="AdminImg\KiranaWorldlogo.png" />
+    <Content Include="AdminImg\mail.png" />
+    <Content Include="AdminImg\minimal.png" />
+    <Content Include="AdminImg\nav-expand.png" />
+    <Content Include="AdminImg\next.png" />
+    <Content Include="AdminImg\pass.png" />
+    <Content Include="AdminImg\prev.png" />
+    <Content Include="AdminImg\search-icon.png" />
+    <Content Include="AdminImg\theOmart.png" />
+    <Content Include="AdminImg\theOmartLogo.png" />
+    <Content Include="anime.gif" />
+    <Content Include="assets\boxed_bgtile.html" />
+    <Content Include="assets\bullet.html" />
+    <Content Include="assets\bullets.html" />
+    <Content Include="assets\bullets2.html" />
+    <Content Include="assets\bullet_boxed.html" />
+    <Content Include="assets\gridtile.html" />
+    <Content Include="assets\gridtile_3x3.html" />
+    <Content Include="assets\gridtile_3x3_white.html" />
+    <Content Include="assets\gridtile_white.html" />
+    <Content Include="assets\navigdots.html" />
+    <Content Include="assets\navigdots_bgtile.html" />
+    <Content Include="assets\shadow1.html" />
+    <Content Include="assets\shadow2.html" />
+    <Content Include="assets\shadow3.html" />
+    <Content Include="Callback.aspx" />
+    <Content Include="CartReview.aspx" />
+    <Content Include="catalog\javascript\bootstrap\fonts\glyphicons-halflings-regular-2.html" />
+    <Content Include="catalog\javascript\bootstrap\fonts\glyphicons-halflings-regular-3.html" />
+    <Content Include="catalog\javascript\bootstrap\fonts\glyphicons-halflings-regular-4.html" />
+    <Content Include="catalog\javascript\bootstrap\fonts\glyphicons-halflings-regular.html" />
+    <Content Include="catalog\javascript\bootstrap\fonts\glyphicons-halflings-regulard41d.html" />
+    <Content Include="catalog\view\javascript\ajaxfilter\ajaxfilter.js" />
+    <Content Include="catalog\view\javascript\ajaxfilter\ion.rangeSlider.css" />
+    <Content Include="catalog\view\javascript\ajaxfilter\ion.rangeSlider.min.js" />
+    <Content Include="catalog\view\javascript\bootstrap\css\bootstrap.min.css" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="catalog\view\javascript\bootstrap\js\bootstrap.min.js" />
+    <Content Include="catalog\view\javascript\common.js" />
+    <Content Include="catalog\view\javascript\font-awesome\css\font-awesome.min.css" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont3e6e.svg" />
+    <Content Include="catalog\view\javascript\img\sprite-skin-modern.html" />
+    <Content Include="catalog\view\javascript\jquery.elevatezoom.min.js" />
+    <Content Include="catalog\view\javascript\jquery.fancybox.js" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.css" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.js" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\moment\moment-with-locales.min.js" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\moment\moment.min.js" />
+    <Content Include="catalog\view\javascript\jquery\jquery-2.1.1.min.js" />
+    <Content Include="catalog\view\javascript\jquery\magnific\jquery.magnific-popup.min.js" />
+    <Content Include="catalog\view\javascript\jquery\magnific\magnific-popup.css" />
+    <Content Include="catalog\view\javascript\jquery\owl-carousel\grabbing.png" />
+    <Content Include="catalog\view\javascript\jquery\owl-carousel\owl.carousel.css" />
+    <Content Include="catalog\view\javascript\jquery\owl-carousel\owl.carousel.js" />
+    <Content Include="catalog\view\javascript\jquery\owl-carousel\owl.carousel.min.js" />
+    <Content Include="catalog\view\javascript\jquery\owl-carousel\owl.transitions.css" />
+    <Content Include="catalog\view\javascript\jquery\swiper\css\opencart.css" />
+    <Content Include="catalog\view\javascript\jquery\swiper\css\swiper.min.css" />
+    <Content Include="catalog\view\javascript\jquery\swiper\js\swiper.jquery.js" />
+    <Content Include="catalog\view\javascript\tabs.js" />
+    <Content Include="catalog\view\javascript\template_js\jquery.firstVisitPopup.js" />
+    <Content Include="catalog\view\javascript\template_js\jstree.min.js" />
+    <Content Include="catalog\view\javascript\template_js\simpleswap.js" />
+    <Content Include="catalog\view\javascript\template_js\template.js" />
+    <Content Include="catalog\view\javascript\template_js\wow.min.js" />
+    <Content Include="catalog\view\theme\oc01\image\blank.html" />
+    <Content Include="catalog\view\theme\oc01\image\cart.png" />
+    <Content Include="catalog\view\theme\oc01\image\category-banner.jpg" />
+    <Content Include="catalog\view\theme\oc01\image\discount-g.png" />
+    <Content Include="catalog\view\theme\oc01\image\discount.png" />
+    <Content Include="catalog\view\theme\oc01\image\fancybox_loading%402x.gif" />
+    <Content Include="catalog\view\theme\oc01\image\fancybox_loading.gif" />
+    <Content Include="catalog\view\theme\oc01\image\fancybox_overlay.png" />
+    <Content Include="catalog\view\theme\oc01\image\fancybox_sprite%402x.png" />
+    <Content Include="catalog\view\theme\oc01\image\fancybox_sprite.png" />
+    <Content Include="catalog\view\theme\oc01\image\filter.png" />
+    <Content Include="catalog\view\theme\oc01\image\footer-arrow.png" />
+    <Content Include="catalog\view\theme\oc01\image\gridlist.png" />
+    <Content Include="catalog\view\theme\oc01\image\loading.gif" />
+    <Content Include="catalog\view\theme\oc01\image\mobile-icon.png" />
+    <Content Include="catalog\view\theme\oc01\image\newsletter-bg.jpg" />
+    <Content Include="catalog\view\theme\oc01\image\salebg.png" />
+    <Content Include="catalog\view\theme\oc01\image\services.png" />
+    <Content Include="catalog\view\theme\oc01\image\spinner.gif" />
+    <Content Include="catalog\view\theme\oc01\image\sprite.png" />
+    <Content Include="catalog\view\theme\oc01\stylesheet\animate.css" />
+    <Content Include="catalog\view\theme\oc01\stylesheet\bootstrap.min.css" />
+    <Content Include="catalog\view\theme\oc01\stylesheet\jquery.fancybox.css" />
+    <Content Include="catalog\view\theme\oc01\stylesheet\live_search.css" />
+    <Content Include="catalog\view\theme\oc01\stylesheet\stylesheet.css" />
+    <Content Include="Categories.aspx" />
+    <Content Include="Category\babycare.jpg" />
+    <Content Include="Category\bakery.jpg" />
+    <Content Include="Category\beauty.jpg" />
+    <Content Include="Category\beverages.jpg" />
+    <Content Include="Category\chicken.jpg" />
+    <Content Include="Category\cleaning.jpg" />
+    <Content Include="Category\fruits.jpg" />
+    <Content Include="Category\grains.jpg" />
+    <Content Include="Category\snacks.jpg" />
+    <Content Include="ChangeAddre.aspx" />
+    <Content Include="Charge.aspx" />
+    <Content Include="checkout.aspx" />
+    <Content Include="coming .jpg" />
+    <Content Include="contact-us.png" />
+    <Content Include="contact.aspx" />
+    <Content Include="Coupon.aspx" />
+    <Content Include="css\AjaxLoader.html" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\AppStyle.css" />
+    <Content Include="css\blog.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\grabbing.html" />
+    <Content Include="css\images\ui-bg_diagonals-thick_18_b81900_40x40.html" />
+    <Content Include="css\images\ui-bg_diagonals-thick_20_666666_40x40.html" />
+    <Content Include="css\images\ui-bg_flat_10_000000_40x100.png" />
+    <Content Include="css\images\ui-bg_glass_100_f6f6f6_1x400.html" />
+    <Content Include="css\images\ui-bg_glass_100_fdf5ce_1x400.html" />
+    <Content Include="css\images\ui-bg_glass_65_ffffff_1x400.html" />
+    <Content Include="css\images\ui-bg_gloss-wave_35_f6a828_500x100.html" />
+    <Content Include="css\images\ui-bg_highlight-soft_100_eeeeee_1x100.html" />
+    <Content Include="css\images\ui-bg_highlight-soft_75_ffe45c_1x100.html" />
+    <Content Include="css\images\ui-icons_222222_256x240.html" />
+    <Content Include="css\images\ui-icons_228ef1_256x240.html" />
+    <Content Include="css\images\ui-icons_ef8c08_256x240.html" />
+    <Content Include="css\images\ui-icons_ffd27a_256x240.html" />
+    <Content Include="css\images\ui-icons_ffffff_256x240.html" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\Mystyle.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\owl.theme.css" />
+    <Content Include="css\owl.transitions.css" />
+    <Content Include="css\quick_view_popup.css" />
+    <Content Include="css\revolution-slider.css" />
+    <Content Include="css\simple-line-icons.css" />
+    <Content Include="css\style.css" />
+    <Content Include="default.aspx" />
+    <Content Include="EditAddress.aspx" />
+    <Content Include="failed.jpg" />
+    <Content Include="failed.png" />
+    <Content Include="False.png" />
+    <Content Include="feedback.aspx" />
+    <Content Include="fonts\arimo\Arimo-Bold-Latin.svg" />
+    <Content Include="fonts\arimo\Arimo-BoldItalic-Latin.svg" />
+    <Content Include="fonts\arimo\Arimo-Italic-Latin.svg" />
+    <Content Include="fonts\arimo\Arimo-Regular-Latin.svg" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.html" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.html" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\revicons\revicons90c6-2.html" />
+    <Content Include="fonts\revicons\revicons90c6-3.html" />
+    <Content Include="fonts\revicons\revicons90c6-4.html" />
+    <Content Include="fonts\revicons\revicons90c6.html" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Icons.svg" />
+    <Content Include="Hash.aspx" />
+    <Content Include="Home.aspx" />
+    <Content Include="Ico\easy-ret.png" />
+    <Content Include="Ico\multi-pay.png" />
+    <Content Include="Ico\partner.png" />
+    <Content Include="Ico\Paytm-Symbol.png" />
+    <Content Include="Ico\sec-pay.png" />
+    <Content Include="Ico\shop.png" />
+    <Content Include="Ico\track-order.png" />
+    <Content Include="images\1.jpg" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\3.jpg" />
+    <Content Include="images\ap.png" />
+    <Content Include="images\appl.png" />
+    <Content Include="images\arrow-d.png" />
+    <Content Include="images\avatar.png" />
+    <Content Include="images\Banner.jpg" />
+    <Content Include="images\brand1.html" />
+    <Content Include="images\brand2.png" />
+    <Content Include="images\brand3.png" />
+    <Content Include="images\brand4.png" />
+    <Content Include="images\brand5.png" />
+    <Content Include="images\brand6.png" />
+    <Content Include="images\brand7.png" />
+    <Content Include="images\button.png" />
+    <Content Include="images\checkbox.png" />
+    <Content Include="images\checked.png" />
+    <Content Include="images\contact-us.png" />
+    <Content Include="images\coupon.jpg" />
+    <Content Include="images\customer-service-icon.png" />
+    <Content Include="images\discover.png" />
+    <Content Include="images\dropdownside.png" />
+    <Content Include="images\faq-banner.png" />
+    <Content Include="images\filtericon.png" />
+    <Content Include="images\flag-brazil.jpg" />
+    <Content Include="images\flag-default.jpg" />
+    <Content Include="images\flag-english.jpg" />
+    <Content Include="images\flag-german.jpg" />
+    <Content Include="images\flag-spain.jpg" />
+    <Content Include="images\footer-logo.png" />
+    <Content Include="images\gradient\g30.html" />
+    <Content Include="images\gradient\g40.html" />
+    <Content Include="images\guaratee-icon.png" />
+    <Content Include="images\KiranaWorld.png" />
+    <Content Include="images\kiranaworldFull.png" />
+    <Content Include="images\large-icon-sitemap.png" />
+    <Content Include="images\loader.gif" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\master-card.png" />
+    <Content Include="images\minus-d1.png" />
+    <Content Include="images\NotInCart-removebg.png" />
+    <Content Include="images\NotInCart.png" />
+    <Content Include="images\Page-not-found.png" />
+    <Content Include="images\paypal.png" />
+    <Content Include="images\placed.png" />
+    <Content Include="images\plus-d2.png" />
+    <Content Include="images\select-arrow.png" />
+    <Content Include="images\shipping-icon.png" />
+    <Content Include="images\T1_All_Cuts_sprouts_DT_3_480x360_25thFeb %281%29.jpg" />
+    <Content Include="images\T1_All_Exotic_DT_4_480x360_25thFeb.jpg" />
+    <Content Include="images\T1_All_Fresh-veggies_DT_1_480x360_25thFeb.jpg" />
+    <Content Include="Image\contact-us.png" />
+    <Content Include="Image\filtericon.png" />
+    <Content Include="img\3.jpg" />
+    <Content Include="img\AddBasket.png" />
+    <Content Include="img\AddButton.png" />
+    <Content Include="img\address.png" />
+    <Content Include="img\arrow.png" />
+    <Content Include="img\backarrow.png" />
+    <Content Include="img\backbtn.png" />
+    <Content Include="img\backbtn1.png" />
+    <Content Include="img\back_arrow-512.png" />
+    <Content Include="img\bakery.png" />
+    <Content Include="img\Basket.png" />
+    <Content Include="img\bengali.png" />
+    <Content Include="img\button.png" />
+    <Content Include="img\CancelOrder.png" />
+    <Content Include="img\Categories.png" />
+    <Content Include="img\CatHome\BabycareH.png" />
+    <Content Include="img\CatHome\BakeryH.png" />
+    <Content Include="img\CatHome\BeautyH.png" />
+    <Content Include="img\CatHome\BeveragesH.png" />
+    <Content Include="img\CatHome\CleaningH.png" />
+    <Content Include="img\CatHome\EggsH.png" />
+    <Content Include="img\CatHome\foodH.png" />
+    <Content Include="img\CatHome\fruitsH.png" />
+    <Content Include="img\CatHome\GourmetH.png" />
+    <Content Include="img\CatHome\KitchenH.png" />
+    <Content Include="img\CatHome\SnacksH.png" />
+    <Content Include="img\chinesefood.png" />
+    <Content Include="img\closeiconfafa.png" />
+    <Content Include="img\coupongo.png" />
+    <Content Include="img\coupongo2.png" />
+    <Content Include="img\couponifo.png" />
+    <Content Include="img\cross.jpg" />
+    <Content Include="img\cuisineimage.png" />
+    <Content Include="img\delete.png" />
+    <Content Include="img\dropdownside.jpg" />
+    <Content Include="img\dropdownside.png" />
+    <Content Include="img\Edit.png" />
+    <Content Include="img\Edit2.png" />
+    <Content Include="img\englishfood.png" />
+    <Content Include="img\fa-user.png" />
+    <Content Include="img\food.png" />
+    <Content Include="img\frenchfood.png" />
+    <Content Include="img\gujarati.jpg" />
+    <Content Include="img\hamburger-menu.svg" />
+    <Content Include="img\hungersolLogin.png" />
+    <Content Include="img\hungersolLogoHome.png" />
+    <Content Include="img\hyderabadi.png" />
+    <Content Include="img\infoAlt.png" />
+    <Content Include="img\italianfood.png" />
+    <Content Include="img\jain.png" />
+    <Content Include="img\jain1.png" />
+    <Content Include="img\left.jpg" />
+    <Content Include="img\loading.gif" />
+    <Content Include="img\LocationAlt.png" />
+    <Content Include="img\Logo - Copy.png" />
+    <Content Include="img\Logo.png" />
+    <Content Include="img\LogoF.png" />
+    <Content Include="img\LogoFo.png" />
+    <Content Include="img\LogoFront.png" />
+    <Content Include="img\lunch.png" />
+    <Content Include="img\maharashtrian.png" />
+    <Content Include="img\man-300x300.png" />
+    <Content Include="img\MenuAddress.png" />
+    <Content Include="img\MenuCart.png" />
+    <Content Include="img\MenuCart2.png" />
+    <Content Include="img\Menucategory.png" />
+    <Content Include="img\MenuGift.png" />
+    <Content Include="img\MenuOut.png" />
+    <Content Include="img\MenuWallet.png" />
+    <Content Include="img\minus.png" />
+    <Content Include="img\mobmenuicon.png" />
+    <Content Include="img\NewAddess.png" />
+    <Content Include="img\NewFolder1\left.jpg" />
+    <Content Include="img\NewFolder1\right.jpg" />
+    <Content Include="img\Non-Veg.png" />
+    <Content Include="img\northindian.png" />
+    <Content Include="img\Offers.png" />
+    <Content Include="img\open.png" />
+    <Content Include="img\OpenOrder.jpg" />
+    <Content Include="img\OpenOrder.png" />
+    <Content Include="img\OrderCompl.png" />
+    <Content Include="img\OrderPlaced.png" />
+    <Content Include="img\Payfail.png" />
+    <Content Include="img\plus.png" />
+    <Content Include="img\profile-white.svg" />
+    <Content Include="img\punjabi.png" />
+    <Content Include="img\resendsms.png" />
+    <Content Include="img\right.jpg" />
+    <Content Include="img\SaveLater.png" />
+    <Content Include="img\search-icon.png" />
+    <Content Include="img\Search.png" />
+    <Content Include="img\share.png" />
+    <Content Include="img\Shop By Category.jpg" />
+    <Content Include="img\southindian.png" />
+    <Content Include="img\std-deliver-van.svg" />
+    <Content Include="img\Sub Category.jpg" />
+    <Content Include="img\Sub-Category.jpg" />
+    <Content Include="img\tamilfood.jpg" />
+    <Content Include="img\thaifood.png" />
+    <Content Include="img\TheOMartLogo Design.png" />
+    <Content Include="img\tick.jpg" />
+    <Content Include="img\TittleBackgroung.jpg" />
+    <Content Include="img\trash.png" />
+    <Content Include="img\Untitled.png" />
+    <Content Include="img\Veg.png" />
+    <Content Include="img\wallet.png" />
+    <Content Include="ItemDetails.aspx" />
+    <Content Include="ItemList.aspx" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\cloud-zoom.js" />
+    <Content Include="js\countdown.js" />
+    <Content Include="js\jquery-2.1.1.min.js" />
+    <Content Include="js\jquery-latest.min.js" />
+    <Content Include="js\jquery-ui.js" />
+    <Content Include="js\jquery.bxslider.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.magnifying-zoom.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\megamenu.js" />
+    <Content Include="js\mobile-menu.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\revolution-slider.js" />
+    <Content Include="js\slider.html" />
+    <Content Include="js\TimeCircles.html" />
+    <Content Include="KiranaWorld.png" />
+    <Content Include="loader-min.gif" />
+    <Content Include="loader.gif" />
+    <Content Include="Loader.jpg" />
+    <Content Include="loader2.gif" />
+    <Content Include="loading-min.gif" />
+    <Content Include="loading-min1.gif" />
+    <Content Include="loading.gif" />
+    <Content Include="Logo.jpg" />
+    <Content Include="main.aspx" />
+    <Content Include="Maintenance.htm" />
+    <Content Include="Maintenance.jpg" />
+    <Content Include="MyOrders.aspx" />
+    <Content Include="MySlide.htm" />
+    <Content Include="Myslider.aspx" />
+    <Content Include="NewAddess.png" />
+    <Content Include="OrderDetails.aspx" />
+    <Content Include="PageNotAvailale.htm" />
+    <Content Include="payment.aspx" />
+    <Content Include="PaymentSuccess.aspx" />
+    <Content Include="paytmpayment.aspx" />
+    <Content Include="placed.png" />
+    <Content Include="profile.aspx" />
+    <Content Include="RazorPayPayment.aspx" />
+    <Content Include="Responce.png" />
+    <Content Include="Response.aspx" />
+    <Content Include="Search.aspx" />
+    <Content Include="ShopbyCategory.aspx" />
+    <Content Include="Slider\3010862.jpg" />
+    <Content Include="Slider\3010864.jpg" />
+    <Content Include="Slider\3014053.jpg" />
+    <Content Include="spinner-min.gif" />
+    <Content Include="spinner.gif" />
+    <Content Include="strip\1.jpg" />
+    <Content Include="strip\10.jpg" />
+    <Content Include="strip\11.jpg" />
+    <Content Include="strip\12.jpg" />
+    <Content Include="strip\13.jpg" />
+    <Content Include="strip\15.jpg" />
+    <Content Include="strip\16.jpg" />
+    <Content Include="strip\2.jpg" />
+    <Content Include="strip\3.jpg" />
+    <Content Include="strip\4.jpg" />
+    <Content Include="strip\5.jpg" />
+    <Content Include="strip\6.jpg" />
+    <Content Include="strip\7.jpg" />
+    <Content Include="strip\8.jpg" />
+    <Content Include="strip\9.jpg" />
+    <Content Include="SubCatDetails.aspx" />
+    <Content Include="Success.aspx" />
+    <Content Include="swiper\css\opencart.css" />
+    <Content Include="swiper\css\swiper.min.css" />
+    <Content Include="swiper\js\swiper.jquery.js" />
+    <Content Include="textloader.gif" />
+    <Content Include="True.png" />
+    <Content Include="ViewItems.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="WebForm1.asp" />
+    <Content Include="WebForm2.asp" />
+    <Content Include="WebForm3.aspx" />
+    <Content Include="wishlist.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.aspx.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account.aspx.designer.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Address.aspx.cs">
+      <DependentUpon>Address.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Address.aspx.designer.cs">
+      <DependentUpon>Address.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Callback.aspx.cs">
+      <DependentUpon>Callback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Callback.aspx.designer.cs">
+      <DependentUpon>Callback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CartReview.aspx.cs">
+      <DependentUpon>CartReview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CartReview.aspx.designer.cs">
+      <DependentUpon>CartReview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Categories.aspx.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Categories.aspx.designer.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeAddre.aspx.cs">
+      <DependentUpon>ChangeAddre.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeAddre.aspx.designer.cs">
+      <DependentUpon>ChangeAddre.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Charge.aspx.cs">
+      <DependentUpon>Charge.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Charge.aspx.designer.cs">
+      <DependentUpon>Charge.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkout.aspx.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkout.aspx.designer.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="commm.cs" />
+    <Compile Include="contact.aspx.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contact.aspx.designer.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Coupon.aspx.cs">
+      <DependentUpon>Coupon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Coupon.aspx.designer.cs">
+      <DependentUpon>Coupon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditAddress.aspx.cs">
+      <DependentUpon>EditAddress.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditAddress.aspx.designer.cs">
+      <DependentUpon>EditAddress.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="feedback.aspx.cs">
+      <DependentUpon>feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="feedback.aspx.designer.cs">
+      <DependentUpon>feedback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hash.aspx.cs">
+      <DependentUpon>Hash.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hash.aspx.designer.cs">
+      <DependentUpon>Hash.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDetails.aspx.cs">
+      <DependentUpon>ItemDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemDetails.aspx.designer.cs">
+      <DependentUpon>ItemDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemList.aspx.cs">
+      <DependentUpon>ItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemList.aspx.designer.cs">
+      <DependentUpon>ItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyOrders.aspx.cs">
+      <DependentUpon>MyOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyOrders.aspx.designer.cs">
+      <DependentUpon>MyOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Myslider.aspx.cs">
+      <DependentUpon>Myslider.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Myslider.aspx.designer.cs">
+      <DependentUpon>Myslider.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDetails.aspx.cs">
+      <DependentUpon>OrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderDetails.aspx.designer.cs">
+      <DependentUpon>OrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="payment.aspx.cs">
+      <DependentUpon>payment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="payment.aspx.designer.cs">
+      <DependentUpon>payment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentSuccess.aspx.cs">
+      <DependentUpon>PaymentSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaymentSuccess.aspx.designer.cs">
+      <DependentUpon>PaymentSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paytmpayment.aspx.cs">
+      <DependentUpon>paytmpayment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paytmpayment.aspx.designer.cs">
+      <DependentUpon>paytmpayment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="profile.aspx.cs">
+      <DependentUpon>profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="profile.aspx.designer.cs">
+      <DependentUpon>profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RazorPayPayment.aspx.cs">
+      <DependentUpon>RazorPayPayment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RazorPayPayment.aspx.designer.cs">
+      <DependentUpon>RazorPayPayment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Response.aspx.cs">
+      <DependentUpon>Response.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Response.aspx.designer.cs">
+      <DependentUpon>Response.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Search.aspx.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Search.aspx.designer.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShopbyCategory.aspx.cs">
+      <DependentUpon>ShopbyCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShopbyCategory.aspx.designer.cs">
+      <DependentUpon>ShopbyCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SubCatDetails.aspx.cs">
+      <DependentUpon>SubCatDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SubCatDetails.aspx.designer.cs">
+      <DependentUpon>SubCatDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Success.aspx.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Success.aspx.designer.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewItems.aspx.cs">
+      <DependentUpon>ViewItems.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewItems.aspx.designer.cs">
+      <DependentUpon>ViewItems.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.asp.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.asp.designer.cs">
+      <DependentUpon>WebForm1.asp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.asp.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.asp.designer.cs">
+      <DependentUpon>WebForm2.asp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3.aspx.cs">
+      <DependentUpon>WebForm3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3.aspx.designer.cs">
+      <DependentUpon>WebForm3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wishlist.aspx.cs">
+      <DependentUpon>wishlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wishlist.aspx.designer.cs">
+      <DependentUpon>wishlist.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\boxed_bgtile.html.tmp" />
+    <Content Include="assets\bullet.html.tmp" />
+    <Content Include="assets\bullets.html.tmp" />
+    <Content Include="assets\bullets2.html.tmp" />
+    <Content Include="assets\bullet_boxed.html.tmp" />
+    <Content Include="assets\gridtile.html.tmp" />
+    <Content Include="assets\gridtile_3x3.html.tmp" />
+    <Content Include="assets\gridtile_3x3_white.html.tmp" />
+    <Content Include="assets\gridtile_white.html.tmp" />
+    <Content Include="assets\navigdots.html.tmp" />
+    <Content Include="assets\navigdots_bgtile.html.tmp" />
+    <Content Include="assets\shadow1.html.tmp" />
+    <Content Include="assets\shadow2.html.tmp" />
+    <Content Include="assets\shadow3.html.tmp" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont3e6e.eot" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont3e6e.ttf" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont3e6e.woff" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont3e6e.woff2" />
+    <Content Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="css\AjaxLoader.html.tmp" />
+    <Content Include="css\grabbing.html.tmp" />
+    <Content Include="css\images\ui-bg_diagonals-thick_18_b81900_40x40.html.tmp" />
+    <Content Include="css\images\ui-bg_diagonals-thick_20_666666_40x40.html.tmp" />
+    <Content Include="css\images\ui-bg_flat_10_000000_40x100.png.tmp" />
+    <Content Include="css\images\ui-bg_glass_100_f6f6f6_1x400.html.tmp" />
+    <Content Include="css\images\ui-bg_glass_100_fdf5ce_1x400.html.tmp" />
+    <Content Include="css\images\ui-bg_glass_65_ffffff_1x400.html.tmp" />
+    <Content Include="css\images\ui-bg_gloss-wave_35_f6a828_500x100.html.tmp" />
+    <Content Include="css\images\ui-bg_highlight-soft_100_eeeeee_1x100.html.tmp" />
+    <Content Include="css\images\ui-bg_highlight-soft_75_ffe45c_1x100.html.tmp" />
+    <Content Include="css\images\ui-icons_222222_256x240.html.tmp" />
+    <Content Include="css\images\ui-icons_228ef1_256x240.html.tmp" />
+    <Content Include="css\images\ui-icons_ef8c08_256x240.html.tmp" />
+    <Content Include="css\images\ui-icons_ffd27a_256x240.html.tmp" />
+    <Content Include="css\images\ui-icons_ffffff_256x240.html.tmp" />
+    <Content Include="css\sccs.scss" />
+    <Content Include="fonts\arimo\Arimo-Bold-Latin.svg.tmp" />
+    <Content Include="fonts\arimo\Arimo-Bold-Latin.ttf" />
+    <Content Include="fonts\arimo\Arimo-Bold-Latin.woff" />
+    <Content Include="fonts\arimo\Arimo-Bold-Latind41d.eot" />
+    <Content Include="fonts\arimo\Arimo-BoldItalic-Latin.svg.tmp" />
+    <Content Include="fonts\arimo\Arimo-BoldItalic-Latin.ttf" />
+    <Content Include="fonts\arimo\Arimo-BoldItalic-Latin.woff" />
+    <Content Include="fonts\arimo\Arimo-BoldItalic-Latind41d.eot" />
+    <Content Include="fonts\arimo\Arimo-Italic-Latin.svg.tmp" />
+    <Content Include="fonts\arimo\Arimo-Italic-Latin.ttf" />
+    <Content Include="fonts\arimo\Arimo-Italic-Latin.woff" />
+    <Content Include="fonts\arimo\Arimo-Italic-Latind41d.eot" />
+    <Content Include="fonts\arimo\Arimo-Regular-Latin.svg.tmp" />
+    <Content Include="fonts\arimo\Arimo-Regular-Latin.ttf" />
+    <Content Include="fonts\arimo\Arimo-Regular-Latin.woff" />
+    <Content Include="fonts\arimo\Arimo-Regular-Latind41d.eot" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.eot" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.html.tmp" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.svg.tmp" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.ttf" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.ttf.tmp" />
+    <Content Include="fonts\font-awesome\fontawesome-webfont3e6e.woff" />
+    <Content Include="fonts\font-awesome\fontawesome-webfontd41d.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.html.tmp" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg.tmp" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="fonts\revicons\revicons90c6-2.html.tmp" />
+    <Content Include="fonts\revicons\revicons90c6-3.html.tmp" />
+    <Content Include="fonts\revicons\revicons90c6-4.html.tmp" />
+    <Content Include="fonts\revicons\revicons90c6.html.tmp" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Icons.eot" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Icons.svg.tmp" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Icons.ttf" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Icons.woff" />
+    <Content Include="fonts\simple-line-icons\Simple-Line-Iconsd41d.eot" />
+    <Content Include="images\brand1.html.tmp" />
+    <Content Include="images\gradient\g30.html.tmp" />
+    <Content Include="images\gradient\g40.html.tmp" />
+    <Content Include="images\menu-img4.jpg.tmp" />
+    <Content Include="images\products\img01.jpg.tmp" />
+    <Content Include=".htaccess" />
+    <Content Include=".user.ini" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{19af0e06-c909-4561-824d-8b5934e986f7}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Banners\" />
+    <Folder Include="Banner\" />
+    <Folder Include="images\slider\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>16469</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44383/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

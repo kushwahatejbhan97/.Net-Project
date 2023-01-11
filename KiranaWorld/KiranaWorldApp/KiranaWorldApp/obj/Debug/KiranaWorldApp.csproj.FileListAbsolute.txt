@@ -1,0 +1,271 @@
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.pdb
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Console.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\AjaxControlToolkit.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\PaytmChecksum.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Razorpay.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.pdb
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll.config
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CopyComplete
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.dll
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.pdb
+C:\Users\Acer\Desktop\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\paytm.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.pdb
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Console.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\AjaxControlToolkit.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\paytm.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\PaytmChecksum.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Razorpay.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.pdb
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll.config
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CopyComplete
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.dll
+C:\Users\Acer\Desktop\backup\sid\kwapp 1-19-22\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.pdb
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.pdb
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.rsp
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.rsp
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.AppContext.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Collections.Immutable.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Console.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Globalization.Calendars.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Http.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Sockets.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.ValueTuple.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.rsp
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\AjaxControlToolkit.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\paytm.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\PaytmChecksum.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Razorpay.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.pdb
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll.config
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.xml
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.AssemblyReference.cache
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CoreCompileInputs.cache
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CopyComplete
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.dll
+F:\OnGoing\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.pdb
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\KiranaWorldApp.pdb
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.exe.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csc.rsp
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.exe.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\csi.rsp
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.AppContext.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Console.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Http.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Net.Sockets.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.ValueTuple.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.exe.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\vbc.rsp
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\paytm.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\PaytmChecksum.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Razorpay.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.pdb
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\DAL.dll.config
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Newtonsoft.Json.xml
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.AssemblyReference.cache
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CoreCompileInputs.cache
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.csproj.CopyComplete
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.dll
+D:\.NET On Going\KiranaWorld\KiranaWorldApp\KiranaWorldApp\obj\Debug\KiranaWorldApp.pdb

@@ -1,0 +1,4 @@
+E:\001 Raahi\Project\mindappraisers\mindappraisers\bin\mindappraisers.dll
+E:\001 Raahi\Project\mindappraisers\mindappraisers\bin\mindappraisers.pdb
+E:\001 Raahi\Project\mindappraisers\mindappraisers\obj\Debug\mindappraisers.dll
+E:\001 Raahi\Project\mindappraisers\mindappraisers\obj\Debug\mindappraisers.pdb

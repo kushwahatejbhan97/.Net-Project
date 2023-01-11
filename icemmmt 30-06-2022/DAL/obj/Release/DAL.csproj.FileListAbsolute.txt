@@ -1,0 +1,6 @@
+D:\Ongoing\icemmmt\icemmmt\DAL\bin\Release\DAL.dll
+D:\Ongoing\icemmmt\icemmmt\DAL\bin\Release\DAL.pdb
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Release\DAL.dll
+D:\Ongoing\icemmmt\icemmmt\DAL\obj\Release\DAL.pdb

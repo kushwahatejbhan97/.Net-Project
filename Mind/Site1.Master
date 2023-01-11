@@ -1,0 +1,255 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="mindappraisers.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8"> 
+<title>mindappraisers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content=""> 
+<meta name="keywords" content=""> 
+<meta name="author" content=""/>
+<style>
+
+.bx-wrapper
+{
+    max-width:100% !important;
+}
+
+
+</style>
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<!-- Google Font Code -->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic' rel='stylesheet' type='text/css'/>
+
+<!-- Stylesheets -->
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="css/animate.min.css"/>
+<link rel="stylesheet" href="css/prettyPhoto.css"/>
+<link rel="stylesheet" href="css/jquery.datetimepicker.css"/>
+<link rel="stylesheet" href="css/bxslider.css"/>
+<link rel="stylesheet" href="css/color.css" />
+<link rel="stylesheet" href="css/style.css" />
+
+<script src="js/modernizr.custom.js"></script>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- Favicon and Apple Icons -->
+<link rel="shortcut icon" type="image/png" href="images/favicon1.jpg"/>
+
+<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body id="top" onLoad="initialize()" class="inner">
+<%--<div id="preloader">
+	<img src="images/Preloader.gif" alt="Preloader" />
+</div>
+--%>
+<!-- ::: START HEADER ::: -->
+<header id="home" class="cbp-af-header header2">
+  <div class="header-top BGdark">
+    <div class="container">
+      <div class="col-md-8 col-sm-12 col-xs-12">
+        <span><i class="fa fa-phone"></i> +91 8341698104, 7995478458</span>
+        <span><i class="fa fa-envelope-o"></i><a href="mailto:info@mindappraisers.com" title="">info@mindappraisers.com</a></span>
+      </div>
+      <div class="col-md-4 hidden-sm hidden-xs">
+        <ul class="social list-inline pull-right">
+          <li><a class="fb" href="https://www.facebook.com/Mind-Appraisers-108744740512279/" target="_blank" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a></li>
+         
+          <li><a class="li" href="https://www.linkedin.com/company/sgf-enterprises-india-pvt-ltd" target="_blank" title="Follow Us on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+          
+          <li><a class="ig" href="https://www.instagram.com/mind_appraisers/" target="_blank" title="Follow Us on Instagram"><i class="fa fa-instagram"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="container">
+    <div class="col-md-3 col-sm-3 col-xs-12 logo">
+        <a title="company Logo" href="default.aspx"><img class="img-responsive" src="images/Logo.jpg"  /></a>
+    </div>
+    <div class="col-md-9 col-sm-9 col-xs-12 cbp-af-inner rightnav">
+      <nav class="navbar navbar-default">
+        
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+      
+       
+        <div class="collapse navbar-collapse" id="menu">
+        
+          
+           <ul class="nav navbar-nav">
+               <li class="active"><a href="default.aspx" title="Home">Home</a></li>
+              <li><a href="about-us.aspx" title="About">About</a></li>
+              <li class="sub"><a href="services.aspx" title="Services">Services</a>
+               <ul class="sub-nav">
+               <li><a href="services.aspx#TrainingandDevelopment" title="Training and development">Training and Development</a></li>
+                      <li><a href="services.aspx#Recruitment" title="Recruitment">Recruitment </a></li>
+                      <li><a href="services.aspx#HR_Consulting" title="HR Consulting">HR Consulting</a></li>
+                      <li><a href="services.aspx#Coaching" title="Executive Coaching">Executive Coaching </a></li>
+               </ul>
+              </li>
+              <li class="sub"><a href="Careers.aspx" title="Job Seekers">Job Seekers</a>
+              <ul class="sub-nav">
+              <li><a href="Careers.aspx#CareerCoachingServices" title="CareerCoachingServices">Career Coaching Services</a></li>
+              <li><a href="Careers.aspx#CareerChange" title="CareerChange">Career Transition</a></li>
+             </ul>
+             </li>
+              
+              <li><a href="contact-us.aspx" title="Contact Us">Contact Us</a></li> 
+            </ul>
+           
+            
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+
+<section class="client page-block">
+  <div class="container">
+      
+      
+      <div class="col-md-12 col-sm-12 col-xs-12 wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
+      	<div class="slider4" style=" width:2000% !important;">
+          <div class="slide"><a href="#" target="_blank"><img src="/img/01.png" alt="Altura consulting"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/02.png" alt="WaterHealth"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/03.png" alt="Apollo health sciences"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/04.png" alt="Deccan school of hospital"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/05.png" alt="Management Patra India"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/06.png" alt="Shri Shakti school of hotel management"></a></div>
+<div class="slide"><a href="#" target="_blank"><img src="/img/07.png" alt="Samrat Iron &amp; Steel Pvt Ltd (TISCON Distributors)"></a></div>
+<div class="slide"><a href="#" target="_blank"><img src="/img/08.png" alt="Just Services (Travels)"></a></div>
+          <div class="slide"><a href="#" target="_blank"><img src="/img/09.png" alt="Tata Trust"></a></div>
+         
+        </div>
+      </div>
+    </div>
+</section>
+
+
+
+
+
+
+<footer class="footer2 BGdark page-block-small">
+  <div class="container">
+  
+    
+    
+    
+    <div class="col-md-4 col-sm-12 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.75s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.75s; animation-name: fadeInUp;">
+      <h5>Quick Links</h5>
+          <ul>
+        <li><a href="services.aspx#TrainingandDevelopment" title="Training and development">Training and development</a></li>
+      	<li><a href="services.aspx#Recruitment" title="Recruitment">Recruitment</a></li>
+      	<li><a href="services.aspx#HR_Consulting" title="HR Consulting">HR Consulting</a></li>
+      	<li><a href="services.aspx#Coaching" title="Executive Coaching">Executive Coaching</a></li>
+
+
+      </ul>
+    </div>
+    <div class="col-md-4 col-sm-12 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.75s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.75s; animation-name: fadeInUp;">
+      <h5>&nbsp;</h5>
+    
+        <ul>
+      	<li><a href="default.aspx" title="Home">Home</a></li>
+      	<li><a href="about-us.aspx" title="About Us">About</a></li>
+      	<li><a href="contact-us.aspx" title="Contact Us">Contact Us</a></li>
+      	
+      
+      </ul>
+    </div>
+    
+    <div class="col-md-4 col-sm-12 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="1.25s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 1.25s; animation-name: fadeInUp;">
+      <h5>Get in touch</h5>
+      <div class="office">
+        <span><i class="fa fa-map-marker"></i>Mind Appraisers,<br />Plot no.4,<br /> Road no. 3, Banjara hills,<br />Hyderabad-500034.
+          </span> 
+        <span><i class="fa fa-phone"></i> +91 8341698104, 7995478458</span>
+        <span><i class="fa fa-envelope-o"></i> <a href="mailto:info@mindappraisers.com" title="">info@mindappraisers.com</a> </span>
+      </div>   
+    </div>
+    
+    <div class="clear"></div>
+    <hr class="light">
+  
+  	
+  	<div class="mindappraisers wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.50s" data-wow-offset="0" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInUp;"> 
+      <div class="col-md-7 col-sm-6 col-xs-12">
+        <p><strong>mindappraisers</strong> © 2019. All Rights Reserved.</p>
+      </div>
+      <div class="col-md-5 col-sm-6 col-xs-12 text-right">
+        <ul class="social list-inline pull-right">
+          <li><a class="fb" href="https://www.facebook.com/Mind-Appraisers-108744740512279/" target="_blank" title="" data-toggle="tooltip" data-placement="top" data-original-title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a></li>
+          
+          <li><a class="li" href="https://www.linkedin.com/company/sgf-enterprises-india-pvt-ltd" target="_blank" title="" data-toggle="tooltip" data-placement="top" data-original-title="Follow Us on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+          
+         
+          <li><a class="ig" href="https://www.instagram.com/mind_appraisers/" target="_blank" title="" data-toggle="tooltip" data-placement="top" data-original-title="Follow Us on Instagram"><i class="fa fa-instagram"></i></a></li>
+          
+      	</ul>
+      </div>
+    </div>
+  </div>
+
+</footer>
+
+<a href="#top" class="top"><i class="fa fa-angle-up fa-lg"></i></a>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/jquery.ui.touch-punch.min.js"></script>
+<script src="js/isotope.pkgd.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/jquery.countTo.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script> 
+<script src="js/wow.min.js"></script>
+<script src="js/jquery.datetimepicker.js"></script>
+<script src="js/placeholders.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/master.js"></script>
+</body>
+
+</html>

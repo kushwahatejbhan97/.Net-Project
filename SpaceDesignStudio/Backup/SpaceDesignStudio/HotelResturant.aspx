@@ -1,0 +1,412 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/panel.Master" AutoEventWireup="true" CodeBehind="HotelResturant.aspx.cs" Inherits="SpaceDesignStudio.HotelResturant" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+
+        <title>Best Interior Designer | Best Interior Designer In Hyderabad</title>
+        <meta name="description" content="Space Design Studio Interiors is an Interior Design Services Serve in Hyderabad, India offers office Interior design, House Decorators , Flat Interior Designers, Office Interior Designers, corporates, homes and residentials in hyderabad" />
+        <meta name="keywords" content="Best Interior Designer,Best Interior Designer In Hyderabad,Flat Interior Designers In Hyderabad,Flat Interior Designers,Office Interior Designers In Hyderabad,Hyderabad Interior Designers,Interior Design Companies In Hyderabad,Interior Designer In Hyderabad for home." />
+        <meta name="title" content="Best Interior Designer | Best Interior Designer In Hyderabad" />
+<link rel="canonical" href="http://www.spacedesignstudio.net/best-interior-designers-in-hyderabad" />
+ <link href="http://www.spacedesignstudio.net/best-interior-designers-in-hyderabad" rel="shortlink"/>
+
+
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+<!--  :::  BREADCRUMBS ::: -->
+<section class="breadcrumbs breadcrumbs2 about wow fadeInDown" data-wow-duration="0.25s" data-wow-delay="0.45s">
+  <div class="boxedeb">
+    <div class="container page-block-small">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+      <h1 id="abs2">best interior designers in hyderabad</h1>
+          <h2>Hotel & Resturant</h2>
+          <span class="line"></span>
+        <div class="rightText">
+            <a href="http://www.spacedesignstudio.net" title="Home">Home</a> / Hotel & Resturant
+        </div>
+      </div>
+    </div><!--end-container-->
+  </div> 
+</section>
+<!-- ::: END ::: -->
+
+
+<section class="page-block-large BGlight">
+  <div class="container">
+      <div class="col-md-6 col-sm-6 col-xs-12 content-box wow fadeInLeft" data-wow-duration="0.50s" data-wow-delay="0.75s">
+      		<img class="img-responsive" src="images/best-interior-designers-in-hyderabad.jpg" alt="best interior designers in hyderabad" title="Hotel & Resturant Interior Designers" width="725" height="475" />
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 content-box wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.75s">
+      <h2>Hotel & Resturant Interior Designers</h2>
+          <p class="big abs1">Modern hotels have cleverly adapted to rapid social changes with creative solutions. From rethinking guestroom configurations to ensuring highly personalized experiences, hotel owners are transforming accommodation units into the highlights of any scope. Whether you own a hotel or planning to start one Design  Interiors is your one stop solution to upgrade to the state of the art technology, comfortable furniture and aesthetic designs.</p>
+          <p class="big abs1">Hotel <b><i>best interior designers in Hyderabad</i></b> is a very challenging yet interesting aspect of design fraternity. To create a hotel with its own individuality, rooms that make the customers want to come back, lounges that act as a sanctuary even within populated cities, themed restaurants, discotheques and a welcoming reception .We design hotels keeping an aura of ‘at home’ with a design that stands the test of time and is free of constantly needed renovations and maintenance within the targeted budgets. Our hotel interior decoration services will include everything from cutlery to beds, lobby, meeting rooms, hotel bars, furniture and furnishings.</p>
+          
+          
+      </div>
+	</div><!--end-container--> 
+</section>
+
+
+<!--  :::  GALLERY ::: -->
+<section class="project-gallery page-block-large">
+   <div class="container"> 
+	<h2 class="vikas">best interior designers in hyderabad</h2>
+    
+      <div class="grid four">
+          <div class="item com">
+              <img class="img-responsive" src="img/Hotel/1.jpg" width="300" title="Hotel & Resturant" height="300" alt="interior designer" />
+              <div class="overlay">
+              	<a class="zoom" href="img/Hotel1/1.jpg" data-rel="prettyPhoto[gallery1]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          <div class="item res">
+              <img class="img-responsive" src="img/Hotel/2.jpg" width="300" height="300" title="Hotel & Resturant" alt="house decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/2.jpg" data-rel="prettyPhoto[gallery2]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          <div class="item ext">
+              <img class="img-responsive" src="img/Hotel/3.jpg" width="300" height="300" title="Hotel & Resturant" alt="interior designers in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/3.jpg" data-rel="prettyPhoto[gallery3]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/4.jpg" width="300" height="300" title="Hotel & Resturant" alt="interior decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/4.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          
+           <div class="item com">
+              <img class="img-responsive" src="img/Hotel/5.jpg" width="300" height="300" title="Hotel & Resturant" alt="office interior designers in hyderabad" />
+              <div class="overlay">
+              	<a class="zoom" href="img/Hotel1/5.jpg" data-rel="prettyPhoto[gallery1]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          <div class="item res">
+              <img class="img-responsive" src="img/Hotel/6.jpg" width="300" height="300" title="Hotel & Resturant" alt="flat interior designers in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/6.jpg" data-rel="prettyPhoto[gallery2]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> 5 Spice </h6>
+          </div>
+          <div class="item ext">
+              <img class="img-responsive" src="img/Hotel/7.jpg" width="300" height="300" title="Hotel & Resturant" alt="hyderabad interior designers" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/7.jpg" data-rel="prettyPhoto[gallery3]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>5 Spice </h6>
+          </div>
+          
+           
+          
+          <div class="item ext">
+              <img class="img-responsive" src="img/Hotel/11.jpg" width="300" height="300" title="Hotel & Resturant" alt="interior design companies in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/11.jpg" data-rel="prettyPhoto[gallery3]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6> Coco Tree </h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/12.jpg" width="300" height="300" title="Hotel & Resturant" alt="interior designer in hyderabad for home" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/12.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree</h6>
+          </div>
+           <div class="item com">
+              <img class="img-responsive" src="img/Hotel/13.jpg" width="300" height="300" title="Hotel & Resturant" alt="best interior designers in hyderabad" />
+              <div class="overlay">
+              	<a class="zoom" href="img/Hotel1/13.jpg" data-rel="prettyPhoto[gallery1]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree</h6>
+          </div>
+          <div class="item res">
+              <img class="img-responsive" src="img/Hotel/14.jpg" width="300" height="300" title="Hotel & Resturant" alt="office decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/14.jpg" data-rel="prettyPhoto[gallery2]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree </h6>
+          </div>
+          <div class="item ext">
+              <img class="img-responsive" src="img/Hotel/15.jpg" width="300" height="300" title="Hotel & Resturant" alt="villa decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/15.jpg" data-rel="prettyPhoto[gallery3]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/16.jpg" width="300" height="300" title="Hotel & Resturant" alt="shop decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/16.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/17.jpg" width="300" height="300" title="Hotel & Resturant" alt="hospital decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/17.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Coco Tree</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/18.jpg" width="300" height="300" title="Hotel & Resturant" alt="hotel decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/18.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/19.jpg" width="300" height="300" title="Hotel & Resturant" alt="resturant decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/19.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/20.jpg" width="300" height="300" title="Hotel & Resturant" alt="residential decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/20.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/21.jpg" width="300" height="300" title="Hotel & Resturant" alt="exteriors decorators in hyderabad" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/21.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/22.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for residential interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/22.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/23.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for house interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/23.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/24.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for office interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/24.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Hopscork</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/25.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for flat interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/25.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/26.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for villa interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/26.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/27.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for shop interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/27.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          
+          
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/30.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for hotel interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/30.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/31.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for resturant interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/31.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stocke</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/32.jpg" width="300" height="300" title="Hotel & Resturant" alt="solutions for hospital interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/32.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/33.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for villas interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/33.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/34.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for flat interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/34.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <div class="item ren">
+              <img class="img-responsive" src="img/Hotel/35.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for office interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/35.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>The Bar Stock</h6>
+          </div>
+          <%--<div class="item ren">
+              <img class="img-responsive" src="img/Hotel/36.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for shop interiors" />
+              <div class="overlay">
+                <a class="zoom" href="img/Hotel1/36.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+              </div>
+              <h6>Project Name</h6>
+          </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/37.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for hotel interiors" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/37.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/38.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for resturant interiors" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/38.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/39.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for hospital interiors" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/39.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/40.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for residential interiors" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/40.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/41.jpg" width="300" height="300" title="Hotel & Resturant" alt="designers for exteriors interiors" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/41.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/42.jpg" width="300" height="300" title="Hotel & Resturant" alt="home interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/42.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/43.jpg" width="300" height="300" title="Hotel & Resturant" alt="shop interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/43.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/44.jpg" width="300" height="300" title="Hotel & Resturant" alt="hotel interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/44.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/45.jpg" width="300" height="300" title="Hotel & Resturant" alt="resturant interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/45.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/46.jpg" width="300" height="300" title="Hotel & Resturant" alt="hospital interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/46.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/47.jpg" width="300" height="300" title="Hotel & Resturant" alt="residential interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/47.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/48.jpg" width="300" height="300" title="Hotel & Resturant" alt="exteriors interior designers in hyderabad" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/48.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+          
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/50.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for hospitals" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/50.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/51.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for home" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/51.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+          
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/53.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for hotel" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/53.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/54.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for resturant" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/54.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/55.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for shop" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/55.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>
+        <div class="item ren">
+            <img class="img-responsive" src="img/Hotel/56.jpg" width="300" height="300" title="Hotel & Resturant" alt="beautiful architectural design for flat" />
+            <div class="overlay">
+            <a class="zoom" href="img/Hotel1/56.jpg" data-rel="prettyPhoto[gallery4]" title="You can add caption to pictures."><i class="fa fa-search-plus square"></i></a>
+            </div>
+            <h6>Project Name</h6>
+        </div>--%>
+          
+      </div>
+   </div>
+</section>
+<!-- ::: END ::: -->
+
+</asp:Content>

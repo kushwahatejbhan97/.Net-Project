@@ -1,0 +1,384 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="panel.master.cs" Inherits="SpaceDesignStudio.panel" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+
+<asp:ContentPlaceHolder ID="head" runat="server">
+ <title>Space Design Studio | Interior Designer | Office Interior Designers | House decorators | Hyderabad</title>
+        <meta name="description" content="Space Design Studio Interiors is an Interior Design Services Serve in Hyderabad, India offers office Interior design, House Decorators , Flat Interior Designers, Office Interior Designers, corporates, homes and residentials in hyderabad" />
+        <meta name="keywords" content="interior designer,office interior designers,interior designs,office design,house decorators,Best Interior Designer In Hyderabad,Interior Designers In Hyderabad,Interior Decorators In Hyderabad,Office Interior Designers In Hyderabad,Flat Interior Designers In Hyderabad,Hyderabad Interior Designers,Interior Design Companies In Hyderabad,Interior Designer In Hyderabad for home,Best Interior Designer In Hyderabad,Interior Designer,House Decorators In Hyderabad" />
+        <meta name="title" content="Interior Designer | Office Interior Designers | House decorators | Hyderabad" />
+        <link rel="canonical" href="http://www.spacedesignstudio.net/" />
+        <link href="http://www.spacedesignstudio.net/" rel="shortlink"/>
+</asp:ContentPlaceHolder>
+
+
+<meta name="google-site-verification" content="ly3OkiAbrNycOL_8tIhrVm53s-UgSY-CRe1C6Lcpu0g" />
+
+
+
+
+
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N53W5SX');</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<title>Space Design Studio | Best interior designer</title>
+ <meta content="Our interior designer serves customised office interior designs, Interior design in Hyderabad, House decoration in Hyderabad, best interior designers in hyderabad." name="description"/>
+        <meta content="interior designers in hyderabad,interior decorators in hyderabad,office interior designers in hyderabad,flat interior designers in hyderabad,hyderabad interior designers,interior design companies in hyderabad,interior designer in hyderabad for home,best interior designers in hyderabad ,interior designer,house decorators in hyderabad" name="keywords"/>
+        <meta content="interior designers in hyderabad,interior decorators in hyderabad,office interior designers in hyderabad,flat interior designers in hyderabad,hyderabad interior designers,interior design companies in hyderabad,interior designer in hyderabad for home,best interior designers in hyderabad ,interior designer,house decorators in hyderabad" name="title"/>
+        <meta content="Space Design Studio Hyderabad" name="author"/>
+        <meta content="index, follow" name="robots"/>
+        <meta content="2 days" name="revisit-after"/>
+       
+        <meta content="index,follow,archive" name="googlebot"/>
+        <meta content="index,follow,archive" name="msnbot"/>
+        <meta content="index,follow,archive" name="Slurp"/>
+        <meta content="Space Design Studio Hyderabad" name="publisher"/>
+        <meta content="Space Design Studio Hyderabad" name="owner"/>
+        <meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport"/>
+        <meta content="Web Page" name="doc-type"/>
+        <meta content="Copywritten Work" name="doc-rights"/>
+        <meta content="All" name="rating"/>
+        <meta content="Global" name="distribution"/>
+        <meta content="Public" name="document-type"/>
+        <meta content="2 Days" name="revisit-after"/>
+        <meta content="IN-AP" name="geo.region"/>
+        <meta content="Hyderabad" name="geo.placename"/>
+
+<!-- Mobile Specific Meta -->
+
+
+<!-- Google Font Code -->
+
+<!-- Stylesheets -->
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="css/prettyPhoto.css"/>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="css/combinedpanel.css" rel="stylesheet" type="text/css" />
+
+<script src="js/modernizr.custom.js"></script>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- Favicon and Apple Icons -->
+<link rel="shortcut icon" href="images/icons/favicon.ico"/>
+<link rel="apple-touch-icon" href="images/icons/apple-touch-icon.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="images/icons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="images/icons/apple-touch-icon-114x114.png"/>
+
+
+
+
+
+<script>
+    !function (e, t, a, n, c, s, o) {
+        e.GoogleAnalyticsObject = c, e[c] = e[c] || function () {
+            (e[c].q = e[c].q || []).push(arguments)
+        }, e[c].l = 1 * new Date, s = t.createElement(a), o = t.getElementsByTagName(a)[0], s.async = 1, s.src = n, o.parentNode.insertBefore(s, o)
+    } (window, document, "script", "https://www.google-analytics.com/analytics.js", "ga"), ga("create", "UA-87490012-1", "auto"), ga("send", "pageview")
+        </script>
+
+
+</head>
+
+
+
+<body id="top" onLoad="initialize()" class="inner">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N53W5SX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<%--<div id="preloader">
+	<img src="images/Preloader.gif" alt="Preloader" />
+</div>--%>
+
+<!-- ::: START HEADER ::: -->
+<header id="home" class="cbp-af-header header2">
+  <div class="header-top BGdark">
+                <div class="container">
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                     <h1 class="vikas">Best Interior Designer In Hyderabad</h1>
+                        <span><i class="fa fa-phone"></i> (+91) 800 800 9832 </span>
+
+                        <span><i class="fa fa-envelope-o"></i> <a href="mailto:javidarchitects@gmail.com" title="">javidarchitects@gmail.com</a> </span>
+                    </div>
+                    <div class="col-md-6 hidden-sm hidden-xs">
+                        <ul class="social list-inline pull-right">
+                            <li><a class="fb" href="https://www.facebook.com/pg/SpaceDesignStudioHyderabad/posts/?ref=page_internal" target="_blank" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="tw" href="https://twitter.com/DesignHyd" target="_blank" title="Follow Us on Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="yt" href="https://youtu.be/JwXcucumip0 " target="_blank" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a></li>
+                            <li><a class="pt" href="https://in.pinterest.com/" target="_blank" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a class="li" href="https://www.linkedin.com/in/spacedesign-studio-088178135?trk=nav_responsive_tab_profile" target="_blank" title="Follow Us on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="fl" href="https://goo.gl/photos/JSX1ns4GXD4kvTPJA" target="_blank" title="Watch Our gallery"><i class="fa fa-flickr"></i></a></li>
+                            <li><a class="gplus" href="https://plus.google.com/u/0/104164553652673440240" target="_blank" title="Google Plus"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a class="ig" href="https://www.instagram.com/spacedesignstudio3032/" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                           <li><a class="" href="https://www.houzz.in/pro/spacedesignstudiohyd/space-design-studio" target="_blank" title="Follow Us on hauzz"><img src="img/download.png" /></a></li>
+                          <li><a class="ig" href="http://spacedesignstudiohyd.blogspot.in/" target="_blank" title="Bolgger"><i class="fa fa-rss"></i></a></li>
+                          <li><a class="vk" href="http://www.sulekha.com/spacedesignstudio-banjara-hills-hyderabad-contact-address" target="_blank" title="Follow Us on sulekha"><img src="img/sulekha1.png" /></a></li>
+                         
+                          <li><a class="vk" href="https://www.homify.in/professionals/2919967/space-design-studio" target="_blank" title="Follow Us on homify"><img src="img/homify.jpg" /></a></li>
+                          <li><a class="vk" href="http://www.zingyhomes.com/interior-designer/space-design-studio_40394/" target="_blank" title="Follow Us on zingyhomes"><img src="img/zingyhomes.jpg" /></a></li>
+                          <li><a class="vk" href="http://www.urbanhomez.com/" target="_blank" title="Follow Us on urbanhomez"><img src="img/Urban.jpg" /></a></li>
+                       
+                        </ul>
+                    </div>
+                </div>
+            </div>
+  <!-- Header top end -->
+  
+  <div class="container">
+    <div class="col-md-3 col-sm-3 col-xs-12 logo">
+        <a title="company Logo"  href="http://www.spacedesignstudio.net"><img class="img-responsive" src="images/company.png"  alt="Company Logo" /></a>
+    </div>
+    <div class="col-md-9 col-sm-9 col-xs-12 cbp-af-inner rightnav">
+      <nav class="navbar navbar-default">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+      
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="menu">
+        
+          <!-- ::: Main Nav ::: -->
+           <ul class="nav navbar-nav">
+              <li class="active"><a  href="http://www.spacedesignstudio.net" title="Home">Home</a></li>
+              <li class="sub"><a href="#" title="About">About Us</a>
+
+                  <ul class="sub-nav">
+                      <li><a href="http://www.spacedesignstudio.net/about-us" title="About Us">About Us</a></li>
+                      <li><a href="http://www.spacedesignstudio.net/mission-vision" title="Mission & Vision">Mission & Vision</a></li>
+                      <li><a href="http://www.spacedesignstudio.net/why-us" title="Why Us">Why Us</a></li>
+                  </ul>
+
+              </li>
+              
+              <li><a href="http://www.spacedesignstudio.net/service" title="Services">Services</a></li>
+              
+              <li class="sub"><a href="#" title="Interior">Interior</a>
+
+                  <ul class="sub-nav">
+                    <li><a href="http://www.spacedesignstudio.net/our-approach" title="Interior Our Approach"> Our Approach</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/3d-design-concept" title="Interior 3D Design Concepts"> 3D Design Concepts</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/project-execution" title="Interior Project Execution"> Project Execution</a></li>
+                    
+                  </ul>
+
+              </li>
+                 
+              <li class="sub"><a href="/interior-designers-in-hyderabad" title="Gallery">Gallery</a>
+              <ul class="sub-nav">
+                    <li><a href="http://www.spacedesignstudio.net/interior-designers-in-hyderabad" title="Residential"> Residential</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/flat-interior-designers-in-hyderabad" title="Flats"> Flats</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/interior-decorators-in-hyderabad" title="Villas"> Villas</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/office-interior-designers-in-hyderabad" title="Office"> Office</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/best-interior-designers-in-hyderabad" title="Hotel & Resturant"> Hotel & Resturant</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/hyderabad-interior-designers" title="Hospital"> Hospital</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/interior-design-companies-in-hyderabad" title="Shop"> Shop</a></li>
+                    <li><a href="http://www.spacedesignstudio.net/interior-designer-in-hyderabad-for-home" title="Exteriors"> Exteriors</a></li>
+                    
+                  </ul>
+              </li>
+              
+              
+              <li ><a href="/blog" title="Blog">Blog</a></li>
+              <li ><a href="/contact-us" title="Contact">Contact</a></li> 
+              
+            </ul>
+            <!-- ::: Main Nav ::: -->
+            
+        </div><!-- /.navbar-collapse -->
+      </nav>
+    </div>
+  </div><!-- end container -->
+</header>
+<!-- ::: END ::: -->
+
+
+
+
+
+
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+ </asp:ContentPlaceHolder>
+
+
+
+<!--  :::  CLIENTS ::: -->
+<section class="client page-block">
+  <div class="container">
+      <div class="col-md-5 col-sm-5 col-xs-12 wow fadeInLeft" data-wow-duration="0.50s" data-wow-delay="0.50s">
+          <h2><i class="fa fa-diamond square BGsec"></i>Clients <small>Precious  &amp; Happy clients</small></h2>
+      </div>
+      
+      <div class="col-md-7 col-sm-7 col-xs-12 wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
+      	<div class="slider4">
+          <div class="slide"><img src="images/clients/01.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/02.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/03.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/04.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/05.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/06.png" alt="Client name"/></div>
+          <div class="slide"><img src="images/clients/07.png" alt="Client name"/></div>
+        </div>
+      </div><!-- end col-md-4 -->
+    </div><!-- end container -->
+</section>
+
+   <footer class="BGdark footer2 page-block-small ">
+            <div class="container">
+
+                <div class="col-xs-12 wow col-md-12 col-sm-12 fadeInDown " data-wow-delay="0.50s" data-wow-duration="0.50s"><img alt="Follow Us " src="images/company-gry.png" class="img-responsive pull-left " title="Company-gry" height="50" width="200">
+                   <ul class="social list-inline pull-right">
+                            <li><a class="fb" href="https://www.facebook.com/pg/SpaceDesignStudioHyderabad/posts/?ref=page_internal" target="_blank" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="tw" href="https://twitter.com/DesignHyd" target="_blank" title="Follow Us on Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a class="yt" href="https://youtu.be/JwXcucumip0 " target="_blank" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a></li>
+                            <li><a class="pt" href="https://in.pinterest.com/" target="_blank" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a class="li" href="https://www.linkedin.com/in/spacedesign-studio-088178135?trk=nav_responsive_tab_profile" target="_blank" title="Follow Us on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a class="fl" href="https://goo.gl/photos/JSX1ns4GXD4kvTPJA" target="_blank" title="Watch Our gallery"><i class="fa fa-flickr"></i></a></li>
+                            <li><a class="gplus" href="https://plus.google.com/u/0/104164553652673440240" target="_blank" title="Google Plus"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a class="ig" href="https://www.instagram.com/spacedesignstudio3032/" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                            <li><a class="ig" href="http://spacedesignstudiohyd.blogspot.in/" target="_blank" title="Bolgger"><i class="fa fa-rss"></i></a></li>
+                           <li><a class="vk" href="http://www.sulekha.com/spacedesignstudio-banjara-hills-hyderabad-contact-address" target="_blank" title="Follow Us on sulekha"><img src="img/sulekha.png" /></a></li>
+                        <li><a class="" href="https://www.houzz.in/pro/spacedesignstudiohyd/space-design-studio" target="_blank" title="Follow Us on hauzz"><img src="img/download1.png" /></a></li>
+                       <li><a class="vk" href="https://www.homify.in/professionals/2919967/space-design-studio" target="_blank" title="Follow Us on homify"><img src="img/homify-logo.jpg" /></a></li>
+                          <li><a class="vk" href="http://www.zingyhomes.com/interior-designer/space-design-studio_40394/" target="_blank" title="Follow Us on zingyhomes"><img src="img/zingyhomes1.jpg" /></a></li>
+                          <li><a class="vk" href="http://www.urbanhomez.com/" target="_blank" title="Follow Us on urbanhomez"><img src="img/urbanhomez.jpg" /></a></li>
+                       
+                        </ul>
+                    <div class="clear"></div>
+                    <hr class="light"> </div>
+                <div class="col-xs-12 wow col-md-4 col-sm-12 content-box fadeInUp " data-wow-delay="0.50s" data-wow-duration="0.50s">
+                    <h5>About</h5>
+                    <p>Space Design Studio is a one stop destination in this field by catering to all the requirements & necessities of design of your Dream Home and Commercial Space.</p><a href="http://www.spacedesignstudio.net/about-us" title="About Company ">Read More <i class="fa fa-chevron-circle-right "></i></a>
+                
+        
+ </div>
+                <div class="col-xs-12 wow content-box
+                    <ul>
+                        <li><a href="http://www.spacedesignstudio.net/Best-Interior-Designer-In-Hyderabad" title="Home">Home</a></li>
+                            <li><a href="http://www.spacedesignstudio.net/about-u fadeInUp col-md-2 col-sm-3 " data-wow-delay="0.75s" data-wow-duration="0.50s">
+                    <h5>Quick Links</h5>s" title="About Us ">About Us</a></li>
+                                <li><a href="http://www.spacedesignstudio.net/mission-vision" title="Mission & Vision ">Mission & Vision</a></li>
+                                    <li><a href="http://www.spacedesignstudio.net/why-us" title="Why Us ">Why Us</a></li>
+                                        <li><a href="/interior-designers-in-hyderabad" title="Gallery">Gallery</a></li>
+                                            <li><a href="/blog" title="Blog">Blog</a></li>
+                                                <li><a href="/contact-us" title="Contact">Contact</a></li>
+                                                <li><a href="/sitemap" title="Contact">Sitemap</a></li></ul>
+
+                </div>
+                <div class="col-xs-12 wow content-box fadeInUp col-md-3 col-sm-5 " data-wow-delay="1s" data-wow-duration="0.50s">
+                    <h5>Services</h5>
+                    <ul>
+                        <li><a href="http://www.spacedesignstudio.net/our-approach" title="Our Approach ">Our Approach</a></li>
+                            <li><a href="http://www.spacedesignstudio.net/3d-design-concept" title="3D Design Concepts ">3D Design Concepts</a></li>
+                                <li><a href="http://www.spacedesignstudio.net/project-execution" title="Project Execution ">Project Execution</a></li>
+                                </ul>
+                                
+                </div>
+                <div class="col-xs-12 wow content-box fadeInUp col-md-3 col-sm-4 " data-wow-delay="1.25s" data-wow-duration="0.50s">
+                    <h5>Get in touch</h5>
+                    <div class="office"><span><i class="fa fa-map-marker "></i> H.No. 19-4-368/36,<br>chirag ali nagar,<br>Kishan Bagh Road, Bahadurpura, Hyderabad.</span> <span><i class="fa fa-phone "></i> (+91) 800 800 9832 </span><span><i class="fa fa-envelope-o "></i> <a href="mailto:javidarchitects@gmail.com">javidarchitects@gmail.com</a></span></div>
+                </div>
+                <div class="clear"></div>
+                
+                <%--<div class="container">
+                  <a class="btn btn-info btn-sm" href="http://www.spacedesignstudio.net/about-us" title="interior designers in hyderabad">Best Interior Designer In Hyderabad</a>
+                    <a class="btn btn-primary btn-sm" href="http://www.spacedesignstudio.net/mission-vision" title="interior decorators in hyderabad">house interior decorators in hyderabad</a>
+                    <a class="btn btn-warning btn-sm" href="http://www.spacedesignstudio.net/why-us" title="office interior designers in hyderabad">office interior designers in hyderabad</a>
+                    <a class="btn btn-success btn-sm" href="http://www.spacedesignstudio.net/service" title="flat interior designers in hyderabad">flat interior designers in hyderabad</a>
+                    <a class="btn btn-light btn-sm" href="http://www.spacedesignstudio.net/our-approach" title="hyderabad interior designers">hyderabad interior designers</a>
+                    <a class="btn btn-warning btn-sm" href="http://www.spacedesignstudio.net/3d-design-concept" title="interior design companies in hyderabad">interior design companies in hyderabad</a>
+                    <a class="btn btn-info btn-sm" href="http://www.spacedesignstudio.net/project-execution" title="interior designer in hyderabad for home">interior designer in hyderabad for home</a>
+                   <a class="btn btn-primary btn-sm" href="http://www.spacedesignstudio.net/flats" title="Best Interior Designer In Hyderabad">interior designers in hyderabad </a>
+                    <a class="btn btn-light btn-sm" href="http://www.spacedesignstudio.net/office" title="interior designer">interior designer</a>
+                    <a class="btn btn-success btn-sm" href="http://www.spacedesignstudio.net/exteriors" title="house decorators in hyderabad">house decorators in hyderabad</a>
+                    </div>--%>
+
+                 <div class="clear"></div>
+                <hr class="light">
+                <div class="wow copyright fadeInUp " data-wow-delay="0.50s" data-wow-duration="0.50s" data-wow-offset="0">
+                    <div class="col-xs-12 col-sm-6 col-md-6 ">
+                        <p><strong>Space Design Studio</strong> © 2016. All Rights Reserved.</p>
+                     </div>
+                      <div class="col-xs-12 col-sm-6 col-md-6 ">
+                        <p>Designed & Developed By: <a href="http://dexterous.in/" title="Dexterous target=_blank"><strong>Dexterous Technology & Web-Services</strong></a></p>
+                     </div>
+                </div>
+            </div>
+        </footer><a href="#top" class="top"><i class="fa fa-angle-up fa-lg "></i></a>
+        
+
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="css1.css" rel="stylesheet" type="text/css" />
+<!--START SCRIPTS -->
+<script src="js/jquery.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/jquery.ui.touch-punch.min.js"></script>
+<script src="js/isotope.pkgd.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/jquery.countTo.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script> 
+<script src="js/wow.min.js"></script>
+<script src="js/jquery.datetimepicker.js"></script>
+<script src="js/placeholders.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/master.js"></script>
+
+
+
+<script>
+
+    // Google Map for single location
+
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(42.879489, -78.876206); // Add your coordinates here
+        var mapOptions = {
+            zoom: 17,
+            scrollwheel: false,
+            center: myLatlng,
+            disableAutoPan: true
+        }
+        var map = new google.maps.Map(document.getElementById('map_canvas1'), mapOptions);
+
+        var contentString = '<div class="info_content">' +
+        '<h5>Striking<small>Los Angeles</small></h5>'; // name and city here
+
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map
+        });
+
+        google.maps.event.addListener(marker, 'click', function () {
+            infowindow.open(map, marker);
+        });
+        infowindow.open(map, marker);
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+</body>
+
+</html>
